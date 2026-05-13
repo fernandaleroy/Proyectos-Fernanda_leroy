@@ -1,0 +1,813 @@
+codigo_reserva;fecha_reserva;fecha_inicio;fecha_fin;estado_reserva;run_reservante;nombre_reservante;es_socio;lugar_nombre;sucursal_nombre;monto_total;monto_pagado;medio_pago;fecha_pago
+RES-00005;2025-07-04;"2025-07-04 13:00";"2025-07-04 14:00";ejecutada;20112516-2;"luis contreras";no;"salon eventos 1";"santiago centro";100000;100000;efectivo;2025-06-30
+RES-00007;2025-05-11;"2025-05-11 18:00";"2025-05-11 19:00";reservada;17503226-6;"juan perez";si;"cancha futbolito techada";"la florida";35000;0;;2025-05-08
+RES-00011;2025-04-05;"2025-04-05 14:00";"2025-04-05 15:00";reservada;18154120-2;"maria gonzalez";si;"salon eventos 2";"la florida";100000;0;;2025-04-03
+RES-00012;2025-03-19;"2025-03-19 13:00";"2025-03-19 14:00";ejecutada;8805000-2;"maria gonzalez";no;"cancha padel aire libre";"la florida";25000;25000;transferencia;2025-03-14
+RES-00013;2025-03-03;"2025-03-03 17:00";"2025-03-03 18:00";ejecutada;5854603-8;"luis contreras";si;"salon eventos 4";"la florida";100000;100000;tarjeta;2025-03-01
+RES-00016;2025-06-17;"2025-06-17 11:00";"2025-06-17 12:00";ejecutada;5854603-8;"luis contreras";si;"salon eventos 2";"santiago centro";100000;100000;tarjeta;2025-06-14
+RES-00021;2025-03-15;"2025-03-15 17:00";"2025-03-15 18:00";cancelada;24967582-2;"maria gonzalez";si;"salon eventos 3";"santa cruz";100000;0;;2025-03-12
+RES-00022;2025-01-04;"2025-01-04 22:00";"2025-01-04 23:00";reservada;16968310-7;"luis contreras";no;"piscina 1";providencia;20000;0;;2025-01-02
+RES-00026;2025-07-07;"2025-07-07 18:00";"2025-07-07 19:00";ejecutada;15795747-3;"ana silva";no;"cancha futbolito aire libre";"la florida";25000;25000;efectivo;2025-07-04
+RES-00027;2025-09-01;"2025-09-01 17:00";"2025-09-01 18:00";reservada;14582283-1;"luis contreras";si;"salon eventos 1";"santa cruz";100000;0;efectivo;2025-08-30
+RES-00029;2025-06-19;"2025-06-19 19:00";"2025-06-19 20:00";cancelada;18053720-9;"ana silva";si;"cancha basquetbol aire libre";"santa cruz";25000;0;;2025-06-16
+RES-00031;2025-12-11;"2025-12-11 22:00";"2025-12-11 23:00";ejecutada;19104958-6;pedro;no;"cancha basquetbol aire libre";"santa cruz";25000;25000;tarjeta;2025-12-09
+RES-00035;2025-06-16;"2025-06-16 09:00";"2025-06-16 10:00";ejecutada;20713143-1;"luis contreras";no;"salon eventos 1";providencia;100000;100000;transferencia;2025-06-11
+RES-00037;2025-02-02;"2025-02-02 17:00";"2025-02-02 18:00";reservada;22156789-7;luis;no;"restaurant 1";providencia;30000;0;;2025-01-29
+RES-00040;2025-01-02;"2025-01-02 18:00";"2025-01-02 19:00";cancelada;14155657-6;"pedro rojas";si;"cancha futbolito aire libre";"santiago centro";25000;0;;2025-01-02
+RES-00041;2025-12-10;"2025-12-10 11:00";"2025-12-10 12:00";ejecutada;21947907-7;"maria gonzalez";no;"salon eventos 4";providencia;100000;100000;efectivo;2025-12-08
+RES-00043;2025-10-02;"2025-10-02 09:00";"2025-10-02 10:00";ejecutada;10837704-6;"pedro rojas";si;"cancha padel aire libre";"santiago centro";25000;25000;transferencia;2025-10-01
+RES-00045;2025-11-13;"2025-11-13 15:00";"2025-11-13 16:00";reservada;21156024-k;"maria gonzalez";si;"salon eventos 3";"santa cruz";100000;0;;2025-11-08
+RES-00046;2025-11-14;"2025-11-14 10:00";"2025-11-14 11:00";reservada;13098747-8;"ana silva";no;"salon eventos 4";"la florida";100000;0;;2025-11-11
+RES-00048;2025-01-14;"2025-01-14 11:00";"2025-01-14 12:00";reservada;9381544-0;"pedro rojas";no;"salon eventos 2";"la florida";100000;0;;2025-01-14
+RES-00049;2025-06-14;"2025-06-14 11:00";"2025-06-14 12:00";reservada;7781298-9;"pedro rojas";si;"cancha tenis aire libre";"santiago centro";25000;0;;2025-06-13
+RES-00050;2026-07-28;"2026-07-30 17:00";"2026-08-01 17:00";reservada;18776636-2;"pedro rojas";no;"cabana 1";"santiago centro";240000;0;;2025-01-01
+RES-00051;2025-07-15;"2025-07-15 08:00";"2025-07-15 09:00";reservada;16276138-2;"ana silva";si;"cancha padel aire libre";"santa cruz";25000;0;;2025-07-11
+RES-00052;2025-06-12;"2025-06-12 10:00";"2025-06-12 11:00";reservada;19020373-5;"juan perez";no;"piscina 1";"santiago centro";20000;0;;2025-06-07
+RES-00055;2025-02-16;"2025-02-16 18:00";"2025-02-16 19:00";cancelada;9269949-8;"ana silva";no;"restaurant 1";providencia;30000;0;;2025-02-13
+RES-00056;2025-04-10;"2025-04-10 16:00";"2025-04-10 17:00";reservada;6835621-0;"luis contreras";no;"restaurant 2";"santiago centro";30000;0;;2025-04-07
+RES-00057;2025-05-14;"2025-05-14 21:00";"2025-05-14 22:00";ejecutada;19727843-9;"luis contreras";si;"cancha basquetbol aire libre";providencia;25000;25000;tarjeta;2025-05-10
+RES-00060;2025-06-08;"2025-06-08 20:00";"2025-06-08 21:00";reservada;9087517-5;"pedro rojas";no;"cancha tenis techada";"santiago centro";35000;0;;2025-06-06
+RES-00063;2025-10-13;"2025-10-13 19:00";"2025-10-13 20:00";cancelada;12192627-k;"pedro rojas";no;"salon eventos 1";"santa cruz";100000;0;;2025-10-12
+RES-00066;2025-07-17;"2025-07-17 18:00";"2025-07-17 19:00";cancelada;13233936-8;"maria gonzalez";no;"piscina 1";"santiago centro";20000;0;;2025-07-16
+RES-00067;2025-02-11;"2025-02-11 08:00";"2025-02-11 09:00";reservada;7989270-k;"maria gonzalez";si;"cancha padel techada";"la florida";35000;0;;2025-02-11
+RES-00072;2025-10-03;"2025-10-03 22:00";"2025-10-03 23:00";ejecutada;10216723-6;"juan perez";no;"cancha futbolito aire libre";"santa cruz";25000;25000;efectivo;2025-10-02
+RES-00073;2025-06-09;"2025-06-09 17:00";"2025-06-09 18:00";ejecutada;12592948-6;"ana silva";si;"cancha futbolito aire libre";"la florida";25000;25000;tarjeta;2025-06-06
+RES-00076;2025-04-01;"2025-04-01 09:00";"2025-04-01 10:00";cancelada;13547030-0;"ana silva";si;"salon eventos 2";"la florida";100000;0;;2025-03-30
+RES-00078;2025-06-17;"2025-06-17 14:00";"2025-06-17 15:00";ejecutada;7500349-8;"pedro rojas";no;"salon eventos 4";"la florida";100000;100000;efectivo;2025-06-13
+RES-00083;2025-07-10;"2025-07-10 21:00";"2025-07-10 22:00";ejecutada;15804334-3;"luis contreras";si;"cancha futbolito techada";providencia;35000;35000;transferencia;2025-07-08
+RES-00089;2025-11-12;"2025-11-12 08:00";"2025-11-12 09:00";ejecutada;13981951-9;"ana silva";no;"cancha futbolito techada";"santa cruz";35000;35000;efectivo;2025-11-11
+RES-00090;2025-06-08;"2025-06-08 15:00";"2025-06-08 16:00";cancelada;9269949-8;"ana silva";no;"cancha padel aire libre";"santa cruz";25000;0;;2025-06-04
+RES-00099;2025-09-17;"2025-09-17 09:00";"2025-09-17 10:00";reservada;9203394-5;"luis contreras";si;"piscina 2";"santa cruz";20000;0;;2025-09-14
+RES-00103;2025-01-15;"2025-01-15 11:00";"2025-01-15 12:00";reservada;6858349-7;"luis contreras";no;"cancha basquetbol aire libre";"la florida";25000;0;;2025-01-13
+RES-00105;2025-05-14;"2025-05-14 19:00";"2025-05-14 20:00";cancelada;5204506-1;"ana silva";si;"salon eventos 3";providencia;100000;0;;2025-05-11
+RES-00106;2025-10-15;"2025-10-15 17:00";"2025-10-15 18:00";ejecutada;8442882-5;"ana silva";no;"salon eventos 3";providencia;100000;100000;tarjeta;2025-10-13
+RES-00107;2025-12-12;"2025-12-12 22:00";"2025-12-12 23:00";cancelada;15047491-4;"ana silva";no;"cancha padel techada";"santiago centro";35000;0;;2025-12-10
+RES-00108;2025-06-14;"2025-06-14 17:00";"2025-06-14 18:00";ejecutada;17623443-1;"maria gonzalez";si;"piscina 1";"santa cruz";20000;20000;transferencia;2025-06-12
+RES-00109;2025-10-15;"2025-10-15 18:00";"2025-10-15 19:00";ejecutada;16825005-3;"ana silva";si;"piscina 1";"santa cruz";20000;20000;efectivo;2025-10-11
+RES-00113;2025-01-02;"2025-01-02 20:00";"2025-01-02 21:00";reservada;13650113-5;"pedro rojas";no;"cancha futbolito techada";"santiago centro";35000;0;;2025-01-01
+RES-00114;2025-10-10;"2025-10-10 17:00";"2025-10-10 18:00";ejecutada;18565989-5;"luis contreras";no;"cancha basquetbol aire libre";providencia;25000;25000;tarjeta;2025-10-07
+RES-00115;2025-02-07;"2025-02-07 12:00";"2025-02-07 13:00";reservada;6951223-2;"maria gonzalez";si;"piscina 2";"la florida";20000;0;;2025-02-06
+RES-00117;2025-08-05;"2025-08-05 22:00";"2025-08-05 23:00";cancelada;13203913-5;"maria gonzalez";si;"cancha futbolito techada";"santiago centro";35000;0;;2025-07-31
+RES-00119;2025-01-20;"2025-01-20 18:00";"2025-01-20 19:00";cancelada;6504014-k;"luis contreras";si;"cancha tenis techada";"santa cruz";35000;0;;2025-01-18
+RES-00120;2025-08-09;"2025-08-09 17:00";"2025-08-09 18:00";ejecutada;13288053-0;"luis contreras";no;"salon eventos 4";"santiago centro";100000;100000;tarjeta;2025-08-09
+RES-00121;2025-04-20;"2025-04-20 15:00";"2025-04-20 16:00";cancelada;19197001-2;"ana silva";si;"cancha tenis techada";"la florida";35000;0;;2025-04-15
+RES-00122;2025-05-18;"2025-05-18 09:00";"2025-05-18 10:00";reservada;22388037-1;"luis contreras";si;"cancha basquetbol aire libre";providencia;25000;0;;2025-05-18
+RES-00123;2025-01-07;"2025-01-07 22:00";"2025-01-07 23:00";reservada;6126625-9;"maria gonzalez";no;"piscina 2";"santiago centro";20000;0;;2025-01-04
+RES-00125;2025-08-18;"2025-08-18 08:00";"2025-08-18 09:00";cancelada;16257735-2;"maria gonzalez";no;"cancha padel aire libre";providencia;25000;0;;2025-08-13
+RES-00126;2025-01-05;"2025-01-05 22:00";"2025-01-05 23:00";cancelada;17049622-1;"pedro rojas";no;"cancha tenis techada";providencia;35000;0;;2024-12-31
+RES-00127;2025-06-04;"2025-06-04 15:00";"2025-06-04 16:00";reservada;7997541-9;"ana silva";si;"piscina 1";"santiago centro";20000;0;;2025-06-04
+RES-00130;2025-02-09;"2025-02-09 20:00";"2025-02-09 21:00";reservada;17623443-1;"maria gonzalez";no;"cancha futbolito aire libre";"santa cruz";25000;0;;2025-02-04
+RES-00131;2025-12-08;"2025-12-08 19:00";"2025-12-08 20:00";cancelada;21217431-9;"juan perez";no;"restaurant 2";"santiago centro";30000;0;;2025-12-03
+RES-00134;2025-01-09;"2025-01-09 12:00";"2025-01-09 13:00";cancelada;11450455-6;"luis contreras";si;"salon eventos 2";"santa cruz";100000;0;;2025-01-04
+RES-00136;2025-10-02;"2025-10-02 09:00";"2025-10-02 10:00";reservada;6504014-k;"luis contreras";si;"cancha futbolito aire libre";"la florida";25000;0;;2025-09-28
+RES-00140;2025-01-19;"2025-01-19 14:00";"2025-01-19 15:00";ejecutada;6085414-9;"maria gonzalez";no;"cancha padel techada";"santiago centro";35000;35000;transferencia;2025-01-18
+RES-00143;2025-07-13;"2025-07-13 22:00";"2025-07-13 23:00";reservada;13914038-9;"luis contreras";si;"cancha tenis aire libre";"santiago centro";25000;0;;2025-07-09
+RES-00145;2025-09-16;"2025-09-16 14:00";"2025-09-16 15:00";reservada;17914991-5;"maria gonzalez";si;"piscina 1";providencia;20000;0;;2025-09-12
+RES-00148;2025-12-17;"2025-12-17 10:00";"2025-12-17 11:00";cancelada;18053720-1;"ana silva";si;"cancha tenis techada";"santa cruz";35000;0;;2025-12-14
+RES-00153;2025-11-03;"2025-11-03 11:00";"2025-11-03 12:00";reservada;12875377-k;"maria gonzalez";no;"cancha tenis aire libre";providencia;25000;0;;2025-11-03
+RES-00155;2025-04-18;"2025-04-18 12:00";"2025-04-18 13:00";ejecutada;20914133-9;"juan perez";no;"salon eventos 1";"santiago centro";100000;100000;transferencia;2025-04-16
+RES-00156;2025-06-09;"2025-06-09 18:00";"2025-06-09 19:00";cancelada;11374837-0;"maria gonzalez";no;"salon eventos 3";providencia;100000;0;;2025-06-09
+RES-00158;2025-10-12;"2025-10-12 10:00";"2025-10-12 11:00";ejecutada;23021174-4;"maria gonzalez";no;"salon eventos 1";"la florida";100000;100000;transferencia;2025-10-10
+RES-00159;2026-07-08;"2026-07-10 08:30";"2026-07-10 09:30";reservada;20078438-3;"ana silva";si;"cancha basquetbol techada";"santa cruz";35000;35000;efectivo;2025-05-31
+RES-00160;2025-10-16;"2025-10-16 20:00";"2025-10-16 21:00";cancelada;6626889-6;"pedro rojas";si;"cancha tenis techada";providencia;35000;0;;2025-10-16
+RES-00161;2025-01-19;"2025-01-19 14:00";"2025-01-19 15:00";reservada;12080481-2;"maria gonzalez";no;"restaurant 2";"santiago centro";30000;0;;2025-01-15
+RES-00162;2025-06-04;"2025-06-04 20:00";"2025-06-04 21:00";ejecutada;7206185-3;"luis contreras";si;"piscina 2";providencia;20000;20000;efectivo;2025-05-30
+RES-00166;2025-11-16;"2025-11-16 10:00";"2025-11-16 11:00";cancelada;11247006-9;"luis contreras";no;"restaurant 2";providencia;30000;0;;2025-11-11
+RES-00169;2025-04-14;"2025-04-14 21:00";"2025-04-14 22:00";reservada;17133976-6;"juan perez";no;"cancha basquetbol aire libre";"santa cruz";25000;0;;2025-04-11
+RES-00170;2025-02-20;"2025-02-20 21:00";"2025-02-20 22:00";cancelada;21178138-6;"ana silva";no;"restaurant 2";"la florida";30000;0;;2025-02-15
+RES-00176;2025-05-11;"2025-05-11 18:00";"2025-05-11 19:00";ejecutada;21934163-6;"maria gonzalez";si;"salon eventos 1";"la florida";100000;100000;efectivo;2025-05-11
+RES-00178;2025-12-02;"2025-12-02 17:00";"2025-12-02 18:00";reservada;20642956-9;"ana silva";si;"cancha futbolito aire libre";providencia;25000;0;;2025-12-01
+RES-00181;2025-10-04;"2025-10-04 13:00";"2025-10-04 14:00";reservada;17275270-5;"pedro rojas";no;"cancha basquetbol aire libre";providencia;25000;0;;2025-09-30
+RES-00187;2025-04-18;"2025-04-18 15:00";"2025-04-18 16:00";ejecutada;9213225-0;"maria gonzalez";no;"restaurant 1";providencia;30000;30000;efectivo;2025-04-14
+RES-00191;2025-10-16;"2025-10-16 15:00";"2025-10-16 16:00";ejecutada;20184378-2;"pedro rojas";no;"cancha basquetbol techada";"santa cruz";35000;35000;efectivo;2025-10-16
+RES-00192;2025-05-05;"2025-05-05 21:00";"2025-05-05 22:00";ejecutada;19197001-2;"ana silva";no;"cancha padel techada";"santiago centro";35000;35000;tarjeta;2025-05-04
+RES-00196;2025-10-03;"2025-10-03 12:00";"2025-10-03 13:00";ejecutada;13897062-0;"maria gonzalez";no;"cancha futbolito techada";"santa cruz";35000;35000;efectivo;2025-10-03
+RES-00198;2025-05-01;"2025-05-01 16:00";"2025-05-01 17:00";cancelada;18965892-3;"juan perez";si;"salon eventos 1";"santa cruz";100000;0;;2025-04-30
+RES-00199;2025-01-08;"2025-01-08 10:00";"2025-01-08 11:00";cancelada;18885368-4;"maria gonzalez";si;"cancha tenis techada";"la florida";35000;0;;2025-01-03
+RES-00205;2025-09-08;"2025-09-08 16:00";"2025-09-08 17:00";ejecutada;6512346-0;"maria gonzalez";si;"cancha padel aire libre";"santa cruz";25000;25000;efectivo;2025-09-05
+RES-00206;2025-11-18;"2025-11-18 08:00";"2025-11-18 09:00";cancelada;11727551-5;"maria gonzalez";si;"salon eventos 3";"santa cruz";100000;0;;2025-11-17
+RES-00209;2025-12-15;"2025-12-15 13:00";"2025-12-15 14:00";cancelada;6504014-k;"luis contreras";si;"salon eventos 1";providencia;100000;0;;2025-12-10
+RES-00211;2025-02-11;"2025-02-11 09:00";"2025-02-11 10:00";ejecutada;15819975-0;"pedro rojas";no;"piscina 2";"la florida";20000;20000;tarjeta;2025-02-06
+RES-00212;2025-03-19;"2025-03-19 22:00";"2025-03-19 23:00";reservada;23021174-4;"maria gonzalez";si;"cancha tenis techada";providencia;35000;0;;2025-03-18
+RES-00214;2025-05-18;"2025-05-18 09:00";"2025-05-18 10:00";cancelada;16530236-2;"pedro rojas";si;"piscina 1";"santa cruz";20000;0;;2025-05-14
+RES-00215;2026-07-09;"2026-07-11 12:00";"2026-07-21 12:00";reservada;17820790-3;"juan perez";no;"cabana 19";"santiago centro";1200000;0;;2025-05-05
+RES-00218;2025-03-04;"2025-03-04 11:00";"2025-03-04 12:00";reservada;22256719-k;"ana silva";si;"restaurant 1";"santa cruz";30000;0;;2025-03-02
+RES-00221;2025-12-09;"2025-12-09 12:00";"2025-12-09 13:00";cancelada;18616868-2;"luis contreras";no;"cancha futbolito aire libre";providencia;25000;0;;2025-12-08
+RES-00226;2025-06-10;"2025-06-10 17:00";"2025-06-10 18:00";reservada;17275270-5;"pedro rojas";si;"cancha futbolito aire libre";"santiago centro";25000;0;;2025-06-08
+RES-00231;2025-12-07;"2025-12-07 11:00";"2025-12-07 12:00";ejecutada;5590602-5;"juan perez";no;"restaurant 2";providencia;30000;30000;efectivo;2025-12-04
+RES-00235;2025-07-20;"2025-07-20 12:00";"2025-07-20 13:00";cancelada;10145466-5;"pedro rojas";no;"cancha basquetbol aire libre";"santiago centro";25000;0;;2025-07-19
+RES-00237;2025-11-11;"2025-11-11 17:00";"2025-11-11 18:00";cancelada;18242406-4;"ana silva";no;"piscina 1";"santiago centro";20000;0;;2025-11-08
+RES-00239;2025-02-12;"2025-02-12 14:00";"2025-02-12 15:00";cancelada;5938386-8;"ana silva";si;"piscina 2";"la florida";20000;0;;2025-02-07
+RES-00243;2025-08-12;"2025-08-12 09:00";"2025-08-12 10:00";ejecutada;15447012-3;"pedro rojas";no;"restaurant 1";"santiago centro";30000;30000;tarjeta;2025-08-09
+RES-00246;2025-01-18;"2025-01-18 19:00";"2025-01-18 20:00";ejecutada;23684083-2;"pedro rojas";no;"salon eventos 4";providencia;100000;100000;transferencia;2025-01-14
+RES-00248;2025-07-04;"2025-07-04 13:00";"2025-07-04 14:00";reservada;13203913-5;"maria gonzalez";si;"cancha futbolito techada";"santiago centro";35000;0;;2025-06-30
+RES-00250;2026-07-04;"2026-07-06 03:30";"2026-07-06 04:30";reservada;6835621-0;"luis contreras";si;"restaurant 2";"la florida";30000;0;;2025-08-15
+RES-00253;2025-11-19;"2025-11-19 17:00";"2025-11-19 18:00";ejecutada;11616558-9;"maria gonzalez";si;"cancha padel aire libre";"la florida";25000;25000;tarjeta;2025-11-16
+RES-00254;2025-03-03;"2025-03-03 16:00";"2025-03-03 17:00";reservada;15826885-k;"juan perez";si;"salon eventos 1";"santiago centro";100000;0;;2025-02-28
+RES-00257;2025-07-18;"2025-07-18 19:00";"2025-07-18 20:00";cancelada;9487250-2;"ana silva";no;"restaurant 1";"la florida";30000;0;;2025-07-18
+RES-00262;2025-10-01;"2025-10-01 21:00";"2025-10-01 22:00";ejecutada;16987649-5;"maria gonzalez";si;"cancha tenis techada";"la florida";35000;35000;efectivo;2025-10-01
+RES-00263;2025-01-05;"2025-01-05 13:00";"2025-01-05 14:00";reservada;14584200-k;"pedro rojas";no;"salon eventos 4";"santa cruz";100000;0;;2025-01-05
+RES-00267;2025-08-05;"2025-08-05 19:00";"2025-08-05 20:00";cancelada;10289799-4;"maria gonzalez";si;"cancha basquetbol techada";"santa cruz";35000;0;;2025-08-01
+RES-00268;2025-04-06;"2025-04-06 09:00";"2025-04-06 10:00";cancelada;14861266-8;"ana silva";no;"salon eventos 3";"santa cruz";100000;0;;2025-04-01
+RES-00271;2025-03-16;"2025-03-16 22:00";"2025-03-16 23:00";cancelada;10145466-5;"pedro rojas";no;"cancha padel aire libre";providencia;25000;0;;2025-03-12
+RES-00272;2025-08-10;"2025-08-10 08:00";"2025-08-10 09:00";reservada;13224751-k;"luis contreras";no;"cancha basquetbol techada";"la florida";35000;0;;2025-08-06
+RES-00275;2025-11-06;"2025-11-06 12:00";"2025-11-06 13:00";cancelada;18881160-4;"pedro rojas";si;"cancha tenis aire libre";"la florida";25000;0;;2025-11-04
+RES-00283;2025-03-16;"2025-03-16 12:00";"2025-03-16 13:00";ejecutada;9978267-6;"pedro rojas";no;"cancha futbolito aire libre";"santa cruz";25000;25000;efectivo;2025-03-14
+RES-00284;2025-06-12;"2025-06-12 19:00";"2025-06-12 20:00";reservada;24139677-0;"ana silva";si;"piscina 1";"la florida";20000;0;;2025-06-11
+RES-00288;2025-12-13;"2025-12-13 09:00";"2025-12-13 10:00";reservada;11219981-0;"pedro rojas";si;"piscina 1";"la florida";20000;0;;2025-12-12
+RES-00293;2025-08-13;"2025-08-13 17:00";"2025-08-13 18:00";reservada;12925543-9;"maria gonzalez";no;"cancha padel techada";providencia;35000;0;;2025-08-13
+RES-00295;2025-02-11;"2025-02-11 15:00";"2025-02-11 16:00";cancelada;13397853-4;"juan perez";no;"cancha basquetbol techada";"santiago centro";35000;0;;2025-02-08
+RES-00301;2025-08-07;"2025-08-07 13:00";"2025-08-07 14:00";cancelada;10289799-2;"maria gonzalez";no;"piscina 1";"santa cruz";20000;0;;2025-08-04
+RES-00302;2025-01-20;"2025-01-20 08:00";"2025-01-20 09:00";reservada;23835968-6;"juan perez";si;"salon eventos 4";"santiago centro";100000;0;;2025-01-19
+RES-00303;2025-10-16;"2025-10-16 10:00";"2025-10-16 11:00";cancelada;15600733-1;"luis contreras";si;"piscina 1";"santa cruz";20000;0;;2025-10-12
+RES-00308;2025-06-11;"2025-06-11 21:00";"2025-06-11 22:00";reservada;17914991-5;"maria gonzalez";no;"cancha futbolito aire libre";"santa cruz";25000;0;;2025-06-08
+RES-00311;2025-08-01;"2025-08-01 09:00";"2025-08-01 10:00";ejecutada;15035367-k;"maria gonzalez";no;"restaurant 2";providencia;30000;30000;transferencia;2025-07-29
+RES-00312;2025-11-09;"2025-11-09 19:00";"2025-11-09 20:00";reservada;20672079-4;"juan perez";no;"cancha basquetbol aire libre";"santa cruz";25000;0;;2025-11-07
+RES-00313;2025-09-09;"2025-09-09 08:00";"2025-09-09 09:00";cancelada;12913560-3;"ana silva";si;"cancha padel techada";"santiago centro";35000;0;;2025-09-08
+RES-00317;2025-02-20;"2025-02-20 08:00";"2025-02-20 09:00";reservada;13554594-5;"pedro rojas";no;"salon eventos 3";"la florida";100000;0;;2025-02-19
+RES-00319;2025-07-12;"2025-07-12 22:00";"2025-07-12 23:00";ejecutada;11616558-9;"maria gonzalez";no;"cancha futbolito aire libre";"santa cruz";25000;25000;transferencia;2025-07-12
+RES-00322;2025-11-06;"2025-11-06 09:00";"2025-11-06 10:00";reservada;11218435-k;"luis contreras";si;"restaurant 2";"santa cruz";30000;0;;2025-11-06
+RES-00324;2025-11-18;"2025-11-18 14:00";"2025-11-18 15:00";cancelada;10289799-4;"maria gonzalez";si;"restaurant 2";providencia;30000;0;;2025-11-15
+RES-00325;2025-04-18;"2025-04-18 08:00";"2025-04-18 09:00";cancelada;13224751-k;"luis contreras";si;"salon eventos 3";"la florida";100000;0;;2025-04-14
+RES-00326;2025-01-04;"2025-01-04 09:00";"2025-01-04 10:00";reservada;7686256-7;"luis contreras";si;"cancha basquetbol techada";"santiago centro";35000;0;;2024-12-30
+RES-00327;2025-03-03;"2025-03-03 20:00";"2025-03-03 21:00";reservada;16304937-6;"juan perez";si;"restaurant 1";"santa cruz";30000;0;;2025-03-01
+RES-00330;2025-07-17;"2025-07-17 08:00";"2025-07-17 09:00";cancelada;19576306-2;"luis contreras";no;"piscina 1";providencia;20000;0;;2025-07-17
+RES-00331;2025-02-19;"2025-02-19 21:00";"2025-02-19 22:00";ejecutada;17911506-9;"pedro rojas";no;"piscina 2";"santiago centro";20000;20000;efectivo;2025-02-15
+RES-00334;2025-03-04;"2025-03-04 17:00";"2025-03-04 18:00";cancelada;16214968-7;"luis contreras";si;"salon eventos 4";"santiago centro";100000;0;;2025-03-04
+RES-00336;2026-05-01;"2026-05-03 04:30";"2026-05-08 04:30";reservada;10645717-4;"pedro rojas";no;"cabana 16";providencia;600000;0;;2025-10-11
+RES-00340;2025-01-11;"2025-01-11 13:00";"2025-01-11 14:00";ejecutada;6807678-1;"pedro rojas";no;"restaurant 1";"santa cruz";30000;30000;efectivo;2025-01-06
+RES-00341;2025-09-15;"2025-09-15 15:00";"2025-09-15 16:00";ejecutada;8409701-2;"pedro rojas";si;"cancha futbolito aire libre";"santiago centro";25000;25000;tarjeta;2025-09-11
+RES-00344;2025-11-13;"2025-11-13 12:00";"2025-11-13 13:00";cancelada;18602114-2;"juan perez";no;"salon eventos 1";providencia;100000;0;;2025-11-11
+RES-00351;2025-03-08;"2025-03-08 10:00";"2025-03-08 11:00";ejecutada;8223654-6;"ana silva";si;"salon eventos 3";"santiago centro";100000;100000;tarjeta;2025-03-06
+RES-00355;2025-04-03;"2025-04-03 18:00";"2025-04-03 19:00";reservada;13224751-k;"luis contreras";no;"piscina 1";"santa cruz";20000;0;;2025-03-29
+RES-00356;2025-01-09;"2025-01-09 15:00";"2025-01-09 16:00";ejecutada;8084042-k;"maria gonzalez";no;"piscina 1";"la florida";20000;20000;transferencia;2025-01-06
+RES-00360;2025-03-19;"2025-03-19 12:00";"2025-03-19 13:00";ejecutada;21947907-7;"maria gonzalez";no;"cancha basquetbol aire libre";providencia;25000;25000;efectivo;2025-03-14
+RES-00365;2025-11-04;"2025-11-04 21:00";"2025-11-04 22:00";reservada;15115625-8;"juan perez";si;"cancha basquetbol techada";"santiago centro";35000;0;;2025-11-02
+RES-00366;2025-02-19;"2025-02-19 10:00";"2025-02-19 11:00";cancelada;11627877-4;"pedro rojas";no;"salon eventos 2";providencia;100000;0;;2025-02-14
+RES-00368;2026-06-09;"2026-06-11 02:00";"2026-06-11 03:00";reservada;17096666-k;"juan perez";si;"cancha futbolito aire libre";"santa cruz";25000;0;;2025-11-14
+RES-00370;2025-08-13;"2025-08-13 16:00";"2025-08-13 17:00";ejecutada;7500349-8;"pedro rojas";no;"salon eventos 3";"santa cruz";100000;100000;efectivo;2025-08-09
+RES-00372;2025-01-06;"2025-01-06 09:00";"2025-01-06 10:00";cancelada;24447412-8;"juan perez";si;"piscina 2";providencia;20000;0;;2025-01-03
+RES-00373;2025-10-17;"2025-10-17 13:00";"2025-10-17 14:00";reservada;20727566-2;"juan perez";no;"cancha tenis techada";providencia;35000;0;;2025-10-15
+RES-00374;2025-07-05;"2025-07-05 15:00";"2025-07-05 16:00";cancelada;20666104-6;"juan perez";si;"cancha padel aire libre";"santa cruz";25000;0;;2025-07-03
+RES-00375;2025-05-04;"2025-05-04 15:00";"2025-05-04 16:00";cancelada;14394380-1;"pedro rojas";si;"salon eventos 3";"santiago centro";100000;0;;2025-04-29
+RES-00378;2025-03-12;"2025-03-12 13:00";"2025-03-12 14:00";cancelada;7206185-3;"luis contreras";no;"cancha futbolito techada";providencia;35000;0;;2025-03-10
+RES-00379;2025-02-19;"2025-02-19 22:00";"2025-02-19 23:00";ejecutada;5633053-4;"maria gonzalez";si;"salon eventos 1";providencia;100000;100000;efectivo;2025-02-15
+RES-00382;2025-04-18;"2025-04-18 10:00";"2025-04-18 11:00";reservada;24619463-7;"ana silva";si;"salon eventos 2";"la florida";100000;0;;2025-04-15
+RES-00386;2025-07-14;"2025-07-14 14:00";"2025-07-14 15:00";ejecutada;7613535-5;"ana silva";si;"cancha tenis techada";"santa cruz";35000;35000;tarjeta;2025-07-11
+RES-00388;2025-10-17;"2025-10-17 10:00";"2025-10-17 11:00";ejecutada;17914991-5;"maria gonzalez";no;"salon eventos 2";"santiago centro";100000;100000;efectivo;2025-10-16
+RES-00389;2025-04-17;"2025-04-17 11:00";"2025-04-17 12:00";reservada;24447412-8;"juan perez";si;"salon eventos 4";providencia;100000;0;;2025-04-17
+RES-00391;2025-02-06;"2025-02-06 12:00";"2025-02-06 13:00";reservada;21454860-7;"ana silva";si;"cancha futbolito aire libre";providencia;25000;0;;2025-02-02
+RES-00392;2025-08-17;"2025-08-17 17:00";"2025-08-17 18:00";cancelada;19104958-6;"pedro rojas";no;"cancha padel techada";providencia;35000;0;;2025-08-14
+RES-00393;2025-10-13;"2025-10-13 20:00";"2025-10-13 21:00";ejecutada;8482497-6;"ana silva";si;"salon eventos 3";providencia;100000;100000;efectivo;2025-10-11
+RES-00394;2025-12-12;"2025-12-12 09:00";"2025-12-12 10:00";ejecutada;17230874-0;"juan perez";no;"salon eventos 3";"santa cruz";100000;100000;tarjeta;2025-12-07
+RES-00396;2025-02-13;"2025-02-13 10:00";"2025-02-13 11:00";cancelada;22074928-2;"juan perez";no;"cancha futbolito aire libre";"la florida";25000;0;;2025-02-09
+RES-00399;2025-09-01;"2025-09-01 19:00";"2025-09-01 20:00";cancelada;13288053-0;"luis contreras";no;"cancha futbolito aire libre";"santa cruz";25000;0;;2025-08-29
+RES-00400;2025-03-09;"2025-03-09 13:00";"2025-03-09 14:00";cancelada;14155657-6;"pedro rojas";no;"cancha basquetbol techada";"santiago centro";35000;0;;2025-03-07
+RES-00401;2025-06-02;"2025-06-02 08:00";"2025-06-02 09:00";cancelada;13014055-0;"maria gonzalez";no;"cancha basquetbol aire libre";"santa cruz";25000;0;;2025-06-01
+RES-00408;2025-02-14;"2025-02-14 12:00";"2025-02-14 13:00";ejecutada;22002174-2;"luis contreras";si;"cancha basquetbol techada";"la florida";35000;35000;efectivo;2025-02-14
+RES-00412;2025-09-01;"2025-09-01 11:00";"2025-09-01 12:00";reservada;23731597-9;"juan perez";si;"cancha tenis aire libre";providencia;25000;0;;2025-09-01
+RES-00414;2025-09-17;"2025-09-17 09:00";"2025-09-17 10:00";reservada;12770855-k;"luis contreras";no;"cancha basquetbol aire libre";"santa cruz";25000;0;;2025-09-16
+RES-00416;2025-11-09;"2025-11-09 20:00";"2025-11-09 21:00";cancelada;13397853-4;"juan perez";si;"salon eventos 4";providencia;100000;0;;2025-11-06
+RES-00417;2025-12-17;"2025-12-17 12:00";"2025-12-17 13:00";reservada;14427366-4;"luis contreras";si;"salon eventos 4";"santiago centro";100000;0;;2025-12-16
+RES-00420;2025-05-17;"2025-05-17 19:00";"2025-05-17 20:00";reservada;18965892-3;"juan perez";si;"piscina 1";"santiago centro";20000;0;;2025-05-12
+RES-00421;2025-10-09;"2025-10-09 17:00";"2025-10-09 18:00";cancelada;12455581-7;"ana silva";no;"cancha padel aire libre";"santa cruz";25000;0;;2025-10-06
+RES-00422;2025-06-01;"2025-06-01 16:00";"2025-06-01 17:00";cancelada;22074928-2;"juan perez";si;"salon eventos 2";"la florida";100000;0;;2025-06-01
+RES-00425;2025-11-17;"2025-11-17 11:00";"2025-11-17 12:00";reservada;14292034-4;"luis contreras";no;"cancha tenis aire libre";"santa cruz";25000;0;;2025-11-15
+RES-00427;2025-11-08;"2025-11-08 08:00";"2025-11-08 09:00";ejecutada;22885927-3;"luis contreras";si;"salon eventos 4";"santa cruz";100000;100000;tarjeta;2025-11-04
+RES-00430;2025-09-11;"2025-09-11 16:00";"2025-09-11 17:00";reservada;13534305-6;"juan perez";si;"cancha tenis techada";"santiago centro";35000;0;;2025-09-09
+RES-00435;2025-07-09;"2025-07-09 10:00";"2025-07-09 11:00";cancelada;24949712-6;"luis contreras";si;"salon eventos 4";providencia;100000;0;;2025-07-05
+RES-00437;2025-11-06;"2025-11-06 10:00";"2025-11-06 11:00";cancelada;7997541-9;"ana silva";no;"cancha basquetbol techada";providencia;35000;0;;2025-11-02
+RES-00441;2025-06-06;"2025-06-06 14:00";"2025-06-06 15:00";cancelada;17820790-3;"juan perez";no;"piscina 2";"santiago centro";20000;0;;2025-06-05
+RES-00448;2025-10-04;"2025-10-04 18:00";"2025-10-04 19:00";reservada;16460920-0;"maria gonzalez";no;"cancha padel aire libre";"santa cruz";25000;0;;2025-10-02
+RES-00452;2025-12-11;"2025-12-11 20:00";"2025-12-11 21:00";cancelada;20997181-k;"juan perez";si;"salon eventos 3";"la florida";100000;0;;2025-12-07
+RES-00454;2025-08-15;"2025-08-15 13:00";"2025-08-15 14:00";reservada;23434952-k;"pedro rojas";si;"salon eventos 1";"santa cruz";100000;0;;2025-08-15
+RES-00457;2025-01-06;"2025-01-06 21:00";"2025-01-06 22:00";reservada;24002475-6;"luis contreras";no;"restaurant 2";"la florida";30000;0;;2025-01-01
+RES-00459;2025-11-07;"2025-11-07 19:00";"2025-11-07 20:00";reservada;18647741-3;"ana silva";si;"piscina 2";"santa cruz";20000;0;;2025-11-03
+RES-00462;2025-04-13;"2025-04-13 08:00";"2025-04-13 09:00";reservada;21162735-2;"juan perez";si;"salon eventos 2";providencia;100000;0;;2025-04-10
+RES-00470;2025-03-06;"2025-03-06 17:00";"2025-03-06 18:00";ejecutada;6085414-9;"maria gonzalez";si;"cancha futbolito techada";"santa cruz";35000;35000;tarjeta;2025-03-06
+RES-00472;2025-05-09;"2025-05-09 12:00";"2025-05-09 13:00";cancelada;16460920-0;"maria gonzalez";si;"cancha tenis aire libre";"santa cruz";25000;0;;2025-05-04
+RES-00473;2025-01-01;"2025-01-01 19:00";"2025-01-01 20:00";ejecutada;15878471-8;"maria gonzalez";no;"cancha basquetbol aire libre";"santa cruz";25000;25000;transferencia;2024-12-29
+RES-00475;2025-08-04;"2025-08-04 15:00";"2025-08-04 16:00";cancelada;13547030-9;"ana silva";si;"salon eventos 4";"la florida";100000;0;;2025-08-02
+RES-00476;2025-09-19;"2025-09-19 12:00";"2025-09-19 13:00";cancelada;7415624-k;"juan perez";no;"cancha padel aire libre";"santiago centro";25000;0;;2025-09-14
+RES-00477;2025-04-10;"2025-04-10 14:00";"2025-04-10 15:00";cancelada;9183641-6;"maria gonzalez";si;"salon eventos 3";"santa cruz";100000;0;;2025-04-07
+RES-00481;2026-05-21;"2026-05-23 00:00";"2026-05-23 01:00";reservada;13792450-1;"juan perez";no;"cancha padel aire libre";providencia;25000;0;;2025-11-27
+RES-00483;2025-06-01;"2025-06-01 16:00";"2025-06-01 17:00";ejecutada;5058687-1;"ana silva";no;"cancha basquetbol aire libre";"la florida";25000;25000;tarjeta;2025-05-30
+RES-00484;2026-05-09;"2026-05-11 03:00";"2026-05-11 04:00";reservada;21773123-2;"luis contreras";si;"cancha padel aire libre";"santa cruz";25000;0;;2025-08-17
+RES-00486;2025-04-19;"2025-04-19 10:00";"2025-04-19 11:00";ejecutada;17623443-1;"maria gonzalez";no;"salon eventos 4";"santiago centro";100000;100000;tarjeta;2025-04-17
+RES-00487;2025-12-17;"2025-12-17 14:00";"2025-12-17 15:00";ejecutada;5137322-7;"juan perez";si;"restaurant 1";"santiago centro";30000;30000;transferencia;2025-12-13
+RES-00492;2025-12-07;"2025-12-07 11:00";"2025-12-07 12:00";cancelada;20928234-8;"pedro rojas";no;"salon eventos 3";providencia;100000;0;;2025-12-02
+RES-00496;2025-03-12;"2025-03-12 21:00";"2025-03-12 22:00";cancelada;16304937-6;"juan perez";no;"restaurant 1";"la florida";30000;0;;2025-03-10
+RES-00497;2025-04-10;"2025-04-10 12:00";"2025-04-10 13:00";cancelada;12774842-k;"ana silva";si;"cancha tenis aire libre";"santa cruz";25000;0;;2025-04-08
+RES-00500;2025-12-15;"2025-12-15 09:00";"2025-12-15 10:00";reservada;6126593-7;"juan perez";no;"cancha basquetbol techada";"la florida";35000;0;;2025-12-10
+RES-00501;2025-01-10;"2025-01-10 16:00";"2025-01-10 17:00";cancelada;15440317-5;"ana silva";si;"salon eventos 2";"la florida";100000;0;;2025-01-06
+RES-00502;2025-07-18;"2025-07-18 19:00";"2025-07-18 20:00";reservada;24619463-7;"ana silva";si;"salon eventos 3";providencia;100000;0;;2025-07-18
+RES-00504;2025-06-18;"2025-06-18 11:00";"2025-06-18 12:00";cancelada;18728677-8;"juan perez";si;"cancha padel techada";"santa cruz";35000;0;;2025-06-13
+RES-00505;2025-05-16;"2025-05-16 20:00";"2025-05-16 21:00";cancelada;8223654-6;"ana silva";si;"piscina 2";"santiago centro";20000;0;;2025-05-14
+RES-00506;2025-12-05;"2025-12-05 12:00";"2025-12-05 13:00";cancelada;15838325-k;"maria gonzalez";si;"piscina 2";providencia;20000;0;;2025-12-02
+RES-00508;2025-09-14;"2025-09-14 13:00";"2025-09-14 14:00";cancelada;15878471-8;"maria gonzalez";no;"piscina 1";"santiago centro";20000;0;;2025-09-09
+RES-00510;2025-05-16;"2025-05-16 15:00";"2025-05-16 16:00";ejecutada;16657576-1;"luis contreras";no;"cancha futbolito aire libre";"la florida";25000;25000;efectivo;2025-05-16
+RES-00511;2025-04-16;"2025-04-16 15:00";"2025-04-16 16:00";cancelada;24402541-2;"luis contreras";si;"piscina 1";providencia;20000;0;;2025-04-15
+RES-00513;2025-08-03;"2025-08-03 22:00";"2025-08-03 23:00";cancelada;14861266-8;"ana silva";si;"cancha basquetbol techada";"la florida";35000;0;;2025-07-29
+RES-00517;2025-09-10;"2025-09-10 21:00";"2025-09-10 22:00";reservada;14843634-7;"juan perez";no;"piscina 2";providencia;20000;0;;2025-09-06
+RES-00526;2025-12-07;"2025-12-07 20:00";"2025-12-07 21:00";ejecutada;19197001-2;"ana silva";no;"cancha tenis aire libre";"santiago centro";25000;25000;efectivo;2025-12-07
+RES-00528;2025-04-03;"2025-04-03 10:00";"2025-04-03 11:00";cancelada;15035367-k;"maria gonzalez";no;"cancha tenis techada";"la florida";35000;0;;2025-03-29
+RES-00533;2025-04-04;"2025-04-04 16:00";"2025-04-04 17:00";cancelada;15148285-6;"luis contreras";no;"cancha padel techada";"la florida";35000;0;;2025-03-30
+RES-00535;2025-11-13;"2025-11-13 10:00";"2025-11-13 11:00";reservada;9203394-5;"luis contreras";no;"salon eventos 3";"santa cruz";100000;0;;2025-11-13
+RES-00536;2025-07-06;"2025-07-06 15:00";"2025-07-06 16:00";ejecutada;8223654-6;"ana silva";no;"cancha futbolito techada";"santiago centro";35000;35000;tarjeta;2025-07-05
+RES-00539;2025-02-19;"2025-02-19 22:00";"2025-02-19 23:00";cancelada;15838325-k;"maria gonzalez";no;"cancha tenis techada";providencia;35000;0;;2025-02-17
+RES-00540;2025-02-14;"2025-02-14 22:00";"2025-02-14 23:00";reservada;14843634-7;"juan perez";si;"cancha padel aire libre";"santiago centro";25000;0;;2025-02-10
+RES-00541;2025-06-02;"2025-06-02 13:00";"2025-06-02 14:00";reservada;19576306-2;"luis contreras";no;"cancha padel techada";"santiago centro";35000;0;;2025-05-28
+RES-00542;2025-06-02;"2025-06-02 17:00";"2025-06-02 18:00";ejecutada;17553993-k;"ana silva";si;"salon eventos 4";providencia;100000;100000;tarjeta;2025-06-02
+RES-00543;2025-04-18;"2025-04-18 09:00";"2025-04-18 10:00";cancelada;24002475-6;"luis contreras";si;"cancha futbolito techada";"santa cruz";35000;0;;2025-04-15
+RES-00544;2025-07-08;"2025-07-08 16:00";"2025-07-08 17:00";reservada;23457711-5;"luis contreras";no;"restaurant 2";"santa cruz";30000;0;;2025-07-04
+RES-00546;2025-03-17;"2025-03-17 21:00";"2025-03-17 22:00";ejecutada;13006129-k;"pedro rojas";si;"salon eventos 1";providencia;100000;100000;tarjeta;2025-03-16
+RES-00548;2025-05-04;"2025-05-04 09:00";"2025-05-04 10:00";cancelada;18646254-8;"pedro rojas";si;"salon eventos 2";"santa cruz";100000;0;;2025-04-29
+RES-00549;2025-08-20;"2025-08-20 13:00";"2025-08-20 14:00";reservada;23491307-7;"maria gonzalez";si;"cancha basquetbol aire libre";"santiago centro";25000;0;;2025-08-16
+RES-00551;2025-03-13;"2025-03-13 22:00";"2025-03-13 23:00";reservada;10478754-1;"pedro rojas";si;"cancha futbolito aire libre";"la florida";25000;0;;2025-03-09
+RES-00556;2025-12-15;"2025-12-15 22:00";"2025-12-15 23:00";reservada;21162735-2;"juan perez";no;"cancha tenis techada";"la florida";35000;0;;2025-12-12
+RES-00557;2025-04-11;"2025-04-11 19:00";"2025-04-11 20:00";cancelada;20328291-5;"juan perez";no;"restaurant 2";providencia;30000;0;;2025-04-07
+RES-00558;2025-02-02;"2025-02-02 14:00";"2025-02-02 15:00";ejecutada;21863652-7;"luis contreras";no;"cancha futbolito aire libre";"santiago centro";25000;25000;transferencia;2025-02-01
+RES-00560;2025-11-20;"2025-11-20 10:00";"2025-11-20 11:00";reservada;6951223-2;"maria gonzalez";si;"cancha tenis techada";"santa cruz";35000;0;;2025-11-18
+RES-00562;2025-05-04;"2025-05-04 13:00";"2025-05-04 14:00";ejecutada;19048151-4;"ana silva";no;"cancha tenis techada";providencia;35000;35000;transferencia;2025-05-02
+RES-00565;2025-09-07;"2025-09-07 20:00";"2025-09-07 21:00";ejecutada;9354610-5;"luis contreras";si;"cancha basquetbol aire libre";"la florida";25000;25000;tarjeta;2025-09-07
+RES-00568;2025-06-19;"2025-06-19 21:00";"2025-06-19 22:00";ejecutada;18616868-2;"luis contreras";no;"restaurant 1";"la florida";30000;30000;tarjeta;2025-06-16
+RES-00572;2025-10-13;"2025-10-13 14:00";"2025-10-13 15:00";reservada;23250659-8;"maria gonzalez";si;"cancha basquetbol techada";"santiago centro";35000;0;;2025-10-10
+RES-00574;2025-06-01;"2025-06-01 09:00";"2025-06-01 10:00";reservada;10949220-5;"maria gonzalez";no;"salon eventos 1";"santiago centro";100000;0;;2025-05-31
+RES-00575;2025-08-18;"2025-08-18 10:00";"2025-08-18 11:00";reservada;15499152-2;"maria gonzalez";si;"cancha basquetbol aire libre";"santiago centro";25000;0;;2025-08-17
+RES-00576;2025-08-01;"2025-08-01 09:00";"2025-08-01 10:00";ejecutada;24427724-1;"maria gonzalez";no;"cancha basquetbol techada";"la florida";35000;35000;transferencia;2025-07-27
+RES-00577;2025-08-19;"2025-08-19 12:00";"2025-08-19 13:00";reservada;23369020-1;"ana silva";no;"salon eventos 2";providencia;100000;0;;2025-08-17
+RES-00578;2025-08-12;"2025-08-12 22:00";"2025-08-12 23:00";reservada;14756759-6;"juan perez";si;"cancha basquetbol techada";"la florida";35000;0;;2025-08-07
+RES-00579;2025-09-18;"2025-09-18 19:00";"2025-09-18 20:00";reservada;17911506-9;"pedro rojas";no;"salon eventos 1";"santa cruz";100000;0;;2025-09-16
+RES-00580;2025-01-09;"2025-01-09 10:00";"2025-01-09 11:00";ejecutada;24949712-6;"luis contreras";si;"salon eventos 3";"santa cruz";100000;100000;tarjeta;2025-01-09
+RES-00581;2025-02-18;"2025-02-18 10:00";"2025-02-18 11:00";reservada;21156024-k;"maria gonzalez";no;"cancha tenis aire libre";"santiago centro";25000;0;;2025-02-17
+RES-00583;2025-11-14;"2025-11-14 16:00";"2025-11-14 17:00";ejecutada;7130867-7;"luis contreras";no;"cancha basquetbol aire libre";"santiago centro";25000;25000;tarjeta;2025-11-09
+RES-00586;2025-02-03;"2025-02-03 08:00";"2025-02-03 09:00";reservada;22852757-2;"ana silva";si;"cancha tenis aire libre";"santa cruz";25000;0;;2025-01-30
+RES-00587;2025-05-15;"2025-05-15 18:00";"2025-05-15 19:00";cancelada;5475559-7;"luis contreras";si;"salon eventos 4";"la florida";100000;0;;2025-05-12
+RES-00588;2025-11-05;"2025-11-05 17:00";"2025-11-05 18:00";ejecutada;10119752-2;"juan perez";si;"cancha padel aire libre";"santiago centro";25000;25000;efectivo;2025-10-31
+RES-00590;2025-01-03;"2025-01-03 17:00";"2025-01-03 18:00";reservada;11414686-2;"maria gonzalez";no;"piscina 2";providencia;20000;0;;2024-12-30
+RES-00596;2025-10-02;"2025-10-02 19:00";"2025-10-02 20:00";ejecutada;22110547-8;"maria gonzalez";si;"salon eventos 2";"santiago centro";100000;100000;efectivo;2025-10-02
+RES-00598;2025-02-02;"2025-02-02 21:00";"2025-02-02 22:00";cancelada;13233936-8;"maria gonzalez";no;"salon eventos 2";"santa cruz";100000;0;;2025-02-01
+RES-00599;2025-04-06;"2025-04-06 15:00";"2025-04-06 16:00";ejecutada;10679568-1;"luis contreras";no;"salon eventos 2";providencia;100000;100000;tarjeta;2025-04-06
+RES-00601;2025-07-13;"2025-07-13 19:00";"2025-07-13 20:00";cancelada;15047491-4;"ana silva";si;"piscina 2";providencia;20000;0;;2025-07-13
+RES-00604;2025-12-10;"2025-12-10 09:00";"2025-12-10 10:00";reservada;20812193-6;"pedro rojas";si;"cancha tenis aire libre";"la florida";25000;0;;2025-12-08
+RES-00605;2025-03-16;"2025-03-16 18:00";"2025-03-16 19:00";cancelada;17506787-6;"pedro rojas";si;"piscina 1";providencia;20000;0;;2025-03-16
+RES-00610;2025-08-13;"2025-08-13 19:00";"2025-08-13 20:00";ejecutada;6204457-8;"luis contreras";si;"cancha basquetbol aire libre";providencia;25000;25000;tarjeta;2025-08-09
+RES-00611;2025-04-05;"2025-04-05 22:00";"2025-04-05 23:00";reservada;15121060-0;"ana silva";no;"cancha futbolito aire libre";"santiago centro";25000;0;;2025-04-03
+RES-00616;2025-06-11;"2025-06-11 12:00";"2025-06-11 13:00";reservada;15594513-3;"pedro rojas";si;"salon eventos 1";"santiago centro";100000;0;;2025-06-07
+RES-00618;2025-08-16;"2025-08-16 22:00";"2025-08-16 23:00";cancelada;23457711-5;"luis contreras";si;"cancha futbolito techada";"la florida";35000;0;;2025-08-11
+RES-00624;2025-04-08;"2025-04-08 19:00";"2025-04-08 20:00";reservada;22367120-9;pedro;no;"cancha basquetbol techada";providencia;35000;0;;2025-04-03
+RES-00625;2025-10-12;"2025-10-12 17:00";"2025-10-12 18:00";cancelada;18154120-2;"maria gonzalez";no;"restaurant 2";"la florida";30000;0;;2025-10-10
+RES-00627;2025-06-03;"2025-06-03 11:00";"2025-06-03 12:00";ejecutada;14584200-k;"pedro rojas";si;"restaurant 1";"la florida";30000;30000;efectivo;2025-05-29
+RES-00628;2025-01-15;"2025-01-15 19:00";"2025-01-15 20:00";cancelada;21454860-7;"ana silva";si;"salon eventos 1";"santiago centro";100000;0;;2025-01-10
+RES-00631;2025-04-02;"2025-04-02 14:00";"2025-04-02 15:00";reservada;6807678-1;"pedro rojas";si;"restaurant 1";"la florida";30000;0;;2025-04-02
+RES-00633;2025-01-17;"2025-01-17 21:00";"2025-01-17 22:00";reservada;10120385-9;"maria gonzalez";si;"salon eventos 4";"santiago centro";100000;0;;2025-01-12
+RES-00634;2025-09-09;"2025-09-09 13:00";"2025-09-09 14:00";cancelada;18933016-2;"juan perez";si;"piscina 1";"la florida";20000;0;;2025-09-08
+RES-00635;2025-05-10;"2025-05-10 10:00";"2025-05-10 11:00";ejecutada;9843733-9;"maria gonzalez";no;"cancha futbolito aire libre";"santa cruz";25000;25000;efectivo;2025-05-06
+RES-00638;2025-11-16;"2025-11-16 13:00";"2025-11-16 14:00";cancelada;12027524-0;"juan perez";si;"cancha futbolito aire libre";"santiago centro";25000;0;;2025-11-16
+RES-00642;2025-10-12;"2025-10-12 19:00";"2025-10-12 20:00";reservada;16460920-0;"maria gonzalez";no;"salon eventos 2";"santa cruz";100000;0;;2025-10-11
+RES-00649;2025-01-10;"2025-01-10 12:00";"2025-01-10 13:00";cancelada;15795747-3;"ana silva";no;"cancha padel aire libre";"santa cruz";25000;0;;2025-01-07
+RES-00651;2025-09-11;"2025-09-11 15:00";"2025-09-11 16:00";reservada;9486514-k;"luis contreras";si;"cancha padel aire libre";"santa cruz";25000;0;;2025-09-08
+RES-00653;2025-07-01;"2025-07-01 20:00";"2025-07-01 21:00";ejecutada;21162735-2;juan;no;"cancha padel aire libre";"la florida";25000;25000;efectivo;2025-06-30
+RES-00655;2026-07-24;"2026-07-26 11:00";"2026-08-01 11:00";reservada;9354610-5;"luis contreras";si;"cabana 8";"la florida";720000;0;;2025-02-06
+RES-00657;2025-02-13;"2025-02-13 14:00";"2025-02-13 15:00";cancelada;17263289-0;"juan perez";si;"cancha basquetbol aire libre";"santiago centro";25000;0;;2025-02-13
+RES-00661;2025-05-04;"2025-05-04 10:00";"2025-05-04 11:00";ejecutada;18776636-2;"pedro rojas";no;"cancha padel aire libre";"la florida";25000;25000;efectivo;2025-05-01
+RES-00664;2025-06-05;"2025-06-05 20:00";"2025-06-05 21:00";ejecutada;24090729-1;"pedro rojas";si;"salon eventos 1";"santiago centro";100000;100000;efectivo;2025-06-01
+RES-00665;2025-03-06;"2025-03-06 11:00";"2025-03-06 12:00";reservada;16304937-6;"juan perez";si;"cancha futbolito aire libre";"la florida";25000;0;;2025-03-05
+RES-00667;2025-05-18;"2025-05-18 12:00";"2025-05-18 13:00";reservada;6761777-0;"luis contreras";si;"cancha basquetbol techada";"santa cruz";35000;0;;2025-05-15
+RES-00670;2025-06-20;"2025-06-20 09:00";"2025-06-20 10:00";ejecutada;16479158-0;"pedro rojas";si;"restaurant 1";"la florida";30000;30000;tarjeta;2025-06-16
+RES-00671;2025-02-13;"2025-02-13 09:00";"2025-02-13 10:00";cancelada;15677425-1;"luis contreras";si;"cancha basquetbol techada";"santiago centro";35000;0;;2025-02-11
+RES-00672;2025-05-06;"2025-05-06 12:00";"2025-05-06 13:00";reservada;23498184-6;"juan perez";si;"cancha tenis aire libre";providencia;25000;0;;2025-05-02
+RES-00673;2026-05-26;"2026-05-28 15:00";"2026-05-28 16:00";reservada;19048151-4;"ana silva";no;"cancha padel techada";"la florida";35000;0;;2025-06-27
+RES-00678;2025-10-10;"2025-10-10 09:00";"2025-10-10 10:00";cancelada;6807678-1;"pedro rojas";no;"cancha tenis aire libre";"la florida";25000;0;;2025-10-10
+RES-00679;2025-12-14;"2025-12-14 12:00";"2025-12-14 13:00";reservada;22367120-9;"pedro rojas";no;"salon eventos 3";"la florida";100000;0;;2025-12-09
+RES-00682;2025-07-08;"2025-07-08 09:00";"2025-07-08 10:00";cancelada;17647891-8;"maria gonzalez";no;"salon eventos 3";"santa cruz";100000;0;;2025-07-05
+RES-00683;2025-02-20;"2025-02-20 15:00";"2025-02-20 16:00";reservada;20194778-2;"ana silva";no;"restaurant 1";"santiago centro";30000;0;;2025-02-20
+RES-00684;2025-03-17;"2025-03-17 22:00";"2025-03-17 23:00";reservada;5135966-6;"pedro rojas";no;"cancha padel techada";"la florida";35000;0;;2025-03-16
+RES-00686;2025-10-01;"2025-10-01 19:00";"2025-10-01 20:00";ejecutada;22852757-2;"ana silva";no;"piscina 2";"santiago centro";20000;20000;transferencia;2025-09-28
+RES-00689;2025-04-01;"2025-04-01 12:00";"2025-04-01 13:00";reservada;19195488-2;"pedro rojas";no;"piscina 1";"santiago centro";20000;0;;2025-03-31
+RES-00695;2025-11-16;"2025-11-16 22:00";"2025-11-16 23:00";cancelada;19332680-3;"ana silva";no;"salon eventos 3";providencia;100000;0;;2025-11-16
+RES-00696;2025-06-10;"2025-06-10 18:00";"2025-06-10 19:00";cancelada;14254375-3;"pedro rojas";si;"cancha padel aire libre";"santiago centro";25000;0;;2025-06-06
+RES-00705;2025-11-17;"2025-11-17 09:00";"2025-11-17 10:00";cancelada;8409701-2;"pedro rojas";no;"piscina 2";"santa cruz";20000;0;;2025-11-16
+RES-00707;2025-07-19;"2025-07-19 10:00";"2025-07-19 11:00";reservada;18971062-3;"juan perez";si;"cancha tenis techada";"santiago centro";35000;0;;2025-07-18
+RES-00709;2025-04-10;"2025-04-10 16:00";"2025-04-10 17:00";ejecutada;11727551-5;"maria gonzalez";no;"salon eventos 3";"santiago centro";100000;100000;efectivo;2025-04-07
+RES-00710;2025-08-14;"2025-08-14 22:00";"2025-08-14 23:00";reservada;5983819-9;"ana silva";no;"cancha tenis aire libre";providencia;25000;0;;2025-08-11
+RES-00714;2025-09-03;"2025-09-03 22:00";"2025-09-03 23:00";reservada;10272070-9;"pedro rojas";no;"piscina 1";"santa cruz";20000;0;;2025-09-03
+RES-00716;2025-10-17;"2025-10-17 14:00";"2025-10-17 15:00";ejecutada;11086191-7;"ana silva";si;"cancha tenis aire libre";"santa cruz";25000;25000;transferencia;2025-10-12
+RES-00717;2025-11-04;"2025-11-04 21:00";"2025-11-04 22:00";cancelada;6738781-3;"maria gonzalez";no;"salon eventos 3";providencia;100000;0;;2025-11-02
+RES-00718;2025-11-10;"2025-11-10 14:00";"2025-11-10 15:00";cancelada;18329134-3;"pedro rojas";no;"piscina 1";"santa cruz";20000;0;;2025-11-07
+RES-00719;2025-05-03;"2025-05-03 14:00";"2025-05-03 15:00";reservada;17647891-8;"maria gonzalez";si;"piscina 2";"santa cruz";20000;0;;2025-04-28
+RES-00720;2026-07-25;"2026-07-27 19:30";"2026-07-27 20:30";reservada;13532015-3;"luis contreras";no;"salon eventos 1";"santa cruz";100000;0;tarjeta;2024-12-30
+RES-00722;2025-01-16;"2025-01-16 13:00";"2025-01-16 14:00";reservada;15115625-8;"juan perez";no;"piscina 2";"santiago centro";20000;0;;2025-01-12
+RES-00724;2025-09-03;"2025-09-03 22:00";"2025-09-03 23:00";ejecutada;6884770-2;"luis contreras";si;"salon eventos 1";"la florida";100000;100000;efectivo;2025-08-31
+RES-00725;2025-03-07;"2025-03-07 15:00";"2025-03-07 16:00";reservada;21287925-8;"ana silva";si;"salon eventos 2";"santa cruz";100000;0;;2025-03-05
+RES-00726;2025-09-05;"2025-09-05 15:00";"2025-09-05 16:00";reservada;19599688-1;"juan perez";no;"cancha padel techada";"la florida";35000;0;;2025-09-02
+RES-00727;2025-04-17;"2025-04-17 11:00";"2025-04-17 12:00";cancelada;11521745-3;"ana silva";si;"piscina 2";"santa cruz";20000;0;;2025-04-15
+RES-00733;2025-01-16;"2025-01-16 20:00";"2025-01-16 21:00";cancelada;9213225-0;"maria gonzalez";si;"cancha padel techada";providencia;35000;0;;2025-01-13
+RES-00736;2025-01-06;"2025-01-06 14:00";"2025-01-06 15:00";reservada;17674128-7;"pedro rojas";si;"restaurant 1";"santiago centro";30000;0;;2025-01-05
+RES-00742;2025-12-17;"2025-12-17 16:00";"2025-12-17 17:00";reservada;9194484-7;"ana silva";no;"cancha futbolito techada";"la florida";35000;0;;2025-12-14
+RES-00745;2025-09-02;"2025-09-02 11:00";"2025-09-02 12:00";cancelada;22378728-2;"maria gonzalez";si;"cancha tenis aire libre";"santiago centro";25000;0;;2025-08-28
+RES-00747;2025-11-08;"2025-11-08 16:00";"2025-11-08 17:00";cancelada;18881160-4;"pedro rojas";si;"restaurant 2";"santiago centro";30000;0;;2025-11-04
+RES-00748;2025-02-13;"2025-02-13 08:00";"2025-02-13 09:00";ejecutada;11450455-6;"luis contreras";no;"cancha basquetbol techada";"santiago centro";35000;35000;efectivo;2025-02-13
+RES-00751;2025-05-07;"2025-05-07 11:00";"2025-05-07 12:00";ejecutada;6261507-9;"luis contreras";si;"piscina 2";"santa cruz";20000;20000;transferencia;2025-05-07
+RES-00753;2025-05-05;"2025-05-05 08:00";"2025-05-05 09:00";cancelada;18065705-3;"maria gonzalez";no;"cancha padel aire libre";"santiago centro";25000;0;;2025-05-05
+RES-00755;2025-05-01;"2025-05-01 13:00";"2025-05-01 14:00";ejecutada;15338995-0;"ana silva";no;"salon eventos 2";"santiago centro";100000;100000;transferencia;2025-04-27
+RES-00757;2025-03-05;"2025-03-05 10:00";"2025-03-05 11:00";ejecutada;21099442-4;"luis contreras";no;"cancha basquetbol techada";providencia;35000;35000;transferencia;2025-03-02
+RES-00758;2025-06-11;"2025-06-11 16:00";"2025-06-11 17:00";cancelada;9564786-3;"ana silva";si;"restaurant 1";providencia;30000;0;;2025-06-07
+RES-00760;2025-03-15;"2025-03-15 16:00";"2025-03-15 17:00";cancelada;6858349-7;"luis contreras";si;"salon eventos 1";providencia;100000;0;;2025-03-14
+RES-00761;2025-07-01;"2025-07-01 13:00";"2025-07-01 14:00";reservada;15148285-6;"luis contreras";no;"cancha tenis aire libre";"santiago centro";25000;0;;2025-06-27
+RES-00765;2025-04-20;"2025-04-20 18:00";"2025-04-20 19:00";cancelada;16012079-7;"ana silva";no;"restaurant 1";providencia;30000;0;;2025-04-16
+RES-00766;2025-06-13;"2025-06-13 13:00";"2025-06-13 14:00";cancelada;10698937-0;"pedro rojas";si;"salon eventos 1";"santiago centro";100000;0;;2025-06-11
+RES-00770;2025-03-03;"2025-03-03 18:00";"2025-03-03 19:00";cancelada;14292034-4;"luis contreras";si;"restaurant 1";"la florida";30000;0;;2025-02-27
+RES-00772;2025-05-20;"2025-05-20 15:00";"2025-05-20 16:00";reservada;17096666-k;"juan perez";si;"salon eventos 2";"santiago centro";100000;0;;2025-05-19
+RES-00774;2025-10-07;"2025-10-07 10:00";"2025-10-07 11:00";ejecutada;23434952-k;"pedro rojas";no;"piscina 1";"santa cruz";20000;20000;transferencia;2025-10-04
+RES-00777;2025-03-02;"2025-03-02 08:00";"2025-03-02 09:00";cancelada;13147810-0;"pedro rojas";si;"cancha basquetbol techada";providencia;35000;0;;2025-02-25
+RES-00786;2025-10-14;"2025-10-14 21:00";"2025-10-14 22:00";ejecutada;7544276-9;"maria gonzalez";si;"piscina 1";"santa cruz";20000;20000;tarjeta;2025-10-14
+RES-00789;2025-11-10;"2025-11-10 16:00";"2025-11-10 17:00";ejecutada;21947907-7;"maria gonzalez";no;"salon eventos 3";providencia;100000;100000;efectivo;2025-11-09
+RES-00790;2025-03-06;"2025-03-06 19:00";"2025-03-06 20:00";cancelada;13505604-9;"ana silva";si;"piscina 2";"la florida";20000;0;;2025-03-01
+RES-00791;2025-01-03;"2025-01-03 13:00";"2025-01-03 14:00";reservada;8223654-6;"ana silva";si;"cancha tenis aire libre";providencia;25000;0;;2024-12-31
+RES-00792;2026-07-14;"2026-07-16 09:00";"2026-07-16 10:00";reservada;19544570-2;"maria gonzalez";no;"piscina 1";"la florida";20000;0;;2025-06-10
+RES-00793;2025-11-01;"2025-11-01 14:00";"2025-11-01 15:00";ejecutada;13532015-3;"luis contreras";no;"cancha tenis aire libre";"santiago centro";25000;25000;transferencia;2025-10-31
+RES-00799;2025-04-06;"2025-04-06 22:00";"2025-04-06 23:00";ejecutada;21287925-8;"ana silva";si;"cancha basquetbol techada";providencia;35000;35000;transferencia;2025-04-06
+RES-00800;2025-04-18;"2025-04-18 22:00";"2025-04-18 23:00";cancelada;21454415-6;"maria gonzalez";si;"restaurant 1";"santiago centro";30000;0;;2025-04-18
+RES-00801;2025-12-15;"2025-12-15 18:00";"2025-12-15 19:00";reservada;22287381-9;"ana silva";no;"cancha basquetbol techada";"la florida";35000;0;;2025-12-10
+RES-00802;2025-05-10;"2025-05-10 16:00";"2025-05-10 17:00";ejecutada;23433621-5;"maria gonzalez";no;"cancha basquetbol techada";"santa cruz";35000;35000;tarjeta;2025-05-06
+RES-00806;2025-06-10;"2025-06-10 14:00";"2025-06-10 15:00";reservada;11727551-5;"maria gonzalez";si;"piscina 1";providencia;20000;0;;2025-06-05
+RES-00807;2025-02-11;"2025-02-11 21:00";"2025-02-11 22:00";reservada;15088563-9;pedro;no;"piscina 1";providencia;20000;0;;2025-02-11
+RES-00815;2026-05-07;"2026-05-09 12:30";"2026-05-09 13:30";reservada;11228399-4;"pedro rojas";no;"restaurant 2";"santiago centro";30000;0;;2025-07-14
+RES-00819;2025-03-19;"2025-03-19 13:00";"2025-03-19 14:00";ejecutada;24831420-6;"luis contreras";si;"restaurant 2";"la florida";30000;30000;transferencia;2025-03-17
+RES-00820;2025-08-12;"2025-08-12 17:00";"2025-08-12 18:00";reservada;17213598-6;pedro;si;"cancha padel techada";"santiago centro";35000;0;;2025-08-10
+RES-00823;2025-09-16;"2025-09-16 19:00";"2025-09-16 20:00";reservada;20470612-3;"ana silva";si;"salon eventos 3";"santa cruz";100000;0;;2025-09-15
+RES-00824;2025-07-08;"2025-07-08 22:00";"2025-07-08 23:00";cancelada;19195488-2;"pedro rojas";si;"salon eventos 1";"santiago centro";100000;0;;2025-07-04
+RES-00833;2025-01-08;"2025-01-08 20:00";"2025-01-08 21:00";cancelada;17503226-6;"juan perez";no;"salon eventos 2";"la florida";100000;0;;2025-01-05
+RES-00834;2025-03-13;"2025-03-13 22:00";"2025-03-13 23:00";ejecutada;11277963-9;"juan perez";no;"cancha basquetbol techada";providencia;35000;35000;transferencia;2025-03-12
+RES-00838;2025-02-09;"2025-02-09 10:00";"2025-02-09 11:00";reservada;16012079-7;"ana silva";si;"cancha basquetbol techada";"la florida";35000;0;;2025-02-07
+RES-00840;2025-01-13;"2025-01-13 20:00";"2025-01-13 21:00";cancelada;19407837-4;"ana silva";si;"cancha tenis aire libre";"santiago centro";25000;0;;2025-01-10
+RES-00844;2025-05-19;"2025-05-19 09:00";"2025-05-19 10:00";cancelada;5116250-1;"pedro rojas";no;"salon eventos 4";"santiago centro";100000;0;;2025-05-14
+RES-00846;2025-10-01;"2025-10-01 16:00";"2025-10-01 17:00";ejecutada;15941454-k;"pedro rojas";no;"cancha basquetbol aire libre";"santiago centro";25000;25000;efectivo;2025-09-30
+RES-00851;2025-04-03;"2025-04-03 20:00";"2025-04-03 21:00";cancelada;11263892-k;"luis contreras";no;"salon eventos 4";"santa cruz";100000;0;;2025-04-03
+RES-00854;2025-06-12;"2025-06-12 10:00";"2025-06-12 11:00";ejecutada;24693299-9;"pedro rojas";no;"cancha tenis aire libre";"santiago centro";25000;25000;efectivo;2025-06-07
+RES-00860;2025-12-09;"2025-12-09 09:00";"2025-12-09 10:00";reservada;19195488-2;"pedro rojas";no;"cancha padel techada";providencia;35000;0;;2025-12-05
+RES-00864;2025-11-11;"2025-11-11 08:00";"2025-11-11 09:00";ejecutada;24139677-0;"ana silva";no;"cancha basquetbol aire libre";providencia;25000;25000;transferencia;2025-11-11
+RES-00865;2025-12-04;"2025-12-04 21:00";"2025-12-04 22:00";cancelada;7826282-6;"maria gonzalez";no;"restaurant 2";"santa cruz";30000;0;;2025-12-04
+RES-00868;2025-08-18;"2025-08-18 13:00";"2025-08-18 14:00";reservada;12651989-3;"luis contreras";si;"piscina 2";"la florida";20000;0;;2025-08-14
+RES-00869;2025-04-18;"2025-04-18 12:00";"2025-04-18 13:00";ejecutada;20713143-1;"luis contreras";si;"cancha tenis techada";"santa cruz";35000;35000;transferencia;2025-04-15
+RES-00871;2025-09-09;"2025-09-09 15:00";"2025-09-09 16:00";reservada;24402541-2;"luis contreras";si;"cancha tenis aire libre";"santiago centro";25000;0;;2025-09-09
+RES-00872;2025-11-17;"2025-11-17 09:00";"2025-11-17 10:00";ejecutada;23435811-1;"pedro rojas";no;"salon eventos 1";"santa cruz";100000;100000;efectivo;2025-11-12
+RES-00873;2026-06-02;"2026-06-04 22:00";"2026-06-11 22:00";reservada;9122138-7;"juan perez";si;"cabana 20";"la florida";840000;0;;2025-08-14
+RES-00879;2025-01-06;"2025-01-06 20:00";"2025-01-06 21:00";ejecutada;14379495-4;"luis contreras";no;"cancha tenis aire libre";"la florida";25000;25000;transferencia;2025-01-02
+RES-00883;2025-07-02;"2025-07-02 16:00";"2025-07-02 17:00";ejecutada;10701066-1;"maria gonzalez";no;"salon eventos 2";"la florida";100000;100000;tarjeta;2025-06-28
+RES-00884;2025-01-10;"2025-01-10 08:00";"2025-01-10 09:00";cancelada;18728677-8;"juan perez";no;"cancha padel techada";"santa cruz";35000;0;;2025-01-05
+RES-00885;2025-12-10;"2025-12-10 22:00";"2025-12-10 23:00";reservada;23835968-6;"juan perez";no;"cancha basquetbol aire libre";"santiago centro";25000;0;;2025-12-07
+RES-00886;2025-02-13;"2025-02-13 16:00";"2025-02-13 17:00";cancelada;20470612-3;"ana silva";si;"cancha padel techada";"santa cruz";35000;0;;2025-02-09
+RES-00887;2025-04-17;"2025-04-17 19:00";"2025-04-17 20:00";ejecutada;8223654-6;"ana silva";no;"salon eventos 3";providencia;100000;100000;tarjeta;2025-04-16
+RES-00888;2025-06-18;"2025-06-18 09:00";"2025-06-18 10:00";cancelada;17049622-1;"pedro rojas";no;"cancha futbolito aire libre";"la florida";25000;0;;2025-06-13
+RES-00889;2025-02-18;"2025-02-18 14:00";"2025-02-18 15:00";cancelada;23046980-6;"luis contreras";no;"salon eventos 1";providencia;100000;0;;2025-02-17
+RES-00891;2025-03-09;"2025-03-09 09:00";"2025-03-09 10:00";cancelada;13554594-2;"pedro rojas";no;"cancha basquetbol aire libre";providencia;25000;0;;2025-03-08
+RES-00893;2026-07-11;"2026-07-13 14:00";"2026-07-13 15:00";reservada;18754494-7;"maria gonzalez";no;"restaurant 1";"la florida";30000;0;;2025-04-13
+RES-00894;2025-02-20;"2025-02-20 15:00";"2025-02-20 16:00";ejecutada;20470612-3;"ana silva";no;"cancha basquetbol aire libre";providencia;25000;25000;efectivo;2025-02-16
+RES-00896;2025-05-18;"2025-05-18 13:00";"2025-05-18 14:00";reservada;17654518-6;"luis contreras";no;"cancha futbolito techada";providencia;35000;0;;2025-05-14
+RES-00897;2025-10-14;"2025-10-14 14:00";"2025-10-14 15:00";ejecutada;9381544-0;"pedro rojas";si;"cancha tenis techada";"la florida";35000;35000;efectivo;2025-10-11
+RES-00899;2025-01-04;"2025-01-04 09:00";"2025-01-04 10:00";ejecutada;14843634-7;"juan perez";si;"salon eventos 4";"santa cruz";100000;100000;efectivo;2024-12-30
+RES-00901;2025-05-07;"2025-05-07 13:00";"2025-05-07 14:00";cancelada;19652678-1;"juan perez";si;"cancha futbolito aire libre";providencia;25000;0;;2025-05-02
+RES-00905;2025-10-01;"2025-10-01 19:00";"2025-10-01 20:00";cancelada;18885368-4;"maria gonzalez";no;"cancha tenis techada";"la florida";35000;0;;2025-09-27
+RES-00912;2025-03-19;"2025-03-19 21:00";"2025-03-19 22:00";ejecutada;10464361-2;"luis contreras";si;"cancha futbolito techada";providencia;35000;35000;tarjeta;2025-03-17
+RES-00913;2025-03-06;"2025-03-06 17:00";"2025-03-06 18:00";reservada;17678051-7;"juan perez";si;"cancha basquetbol techada";"la florida";35000;0;;2025-03-06
+RES-00914;2025-08-07;"2025-08-07 11:00";"2025-08-07 12:00";ejecutada;6261507-9;"luis contreras";no;"salon eventos 2";"santiago centro";100000;100000;transferencia;2025-08-06
+RES-00916;2025-01-10;"2025-01-10 20:00";"2025-01-10 21:00";reservada;20997181-k;"juan perez";no;"cancha tenis aire libre";"la florida";25000;0;;2025-01-05
+RES-00918;2026-05-12;"2026-05-14 14:00";"2026-05-24 14:00";reservada;12465454-8;"pedro rojas";no;"cabana 19";providencia;1200000;0;;2025-11-02
+RES-00921;2025-12-09;"2025-12-09 13:00";"2025-12-09 14:00";ejecutada;5938386-8;"ana silva";si;"restaurant 2";providencia;30000;30000;tarjeta;2025-12-04
+RES-00922;2025-02-14;"2025-02-14 15:00";"2025-02-14 16:00";cancelada;19104958-6;"pedro rojas";no;"salon eventos 1";"santiago centro";100000;0;;2025-02-13
+RES-00926;2025-11-14;"2025-11-14 17:00";"2025-11-14 18:00";ejecutada;14941850-4;"luis contreras";si;"cancha futbolito aire libre";providencia;25000;25000;transferencia;2025-11-12
+RES-00928;2025-06-03;"2025-06-03 16:00";"2025-06-03 17:00";ejecutada;21351051-7;"ana silva";si;"piscina 1";"santiago centro";20000;20000;tarjeta;2025-06-02
+RES-00929;2025-01-02;"2025-01-02 14:00";"2025-01-02 15:00";reservada;5645014-9;"pedro rojas";si;"cancha tenis techada";"la florida";35000;0;;2024-12-30
+RES-00930;2025-10-10;"2025-10-10 17:00";"2025-10-10 18:00";ejecutada;22287381-9;"ana silva";no;"cancha futbolito techada";"santiago centro";35000;35000;transferencia;2025-10-10
+RES-00931;2025-05-18;"2025-05-18 21:00";"2025-05-18 22:00";cancelada;10238227-7;"ana silva";si;"piscina 1";"santa cruz";20000;0;;2025-05-13
+RES-00932;2025-11-13;"2025-11-13 11:00";"2025-11-13 12:00";cancelada;13775714-1;"luis contreras";si;"cancha futbolito aire libre";"santa cruz";25000;0;;2025-11-12
+RES-00937;2025-12-09;"2025-12-09 20:00";"2025-12-09 21:00";ejecutada;19211618-k;"luis contreras";no;"salon eventos 4";"santiago centro";100000;100000;efectivo;2025-12-06
+RES-00940;2025-09-02;"2025-09-02 13:00";"2025-09-02 14:00";ejecutada;6436217-8;"pedro rojas";no;"cancha padel aire libre";"santiago centro";25000;25000;efectivo;2025-08-29
+RES-00941;2025-04-19;"2025-04-19 21:00";"2025-04-19 22:00";cancelada;16170965-4;luis;si;"piscina 2";providencia;20000;0;;2025-04-15
+RES-00943;2025-11-16;"2025-11-16 14:00";"2025-11-16 15:00";cancelada;5137322-7;"juan perez";no;"salon eventos 2";"la florida";100000;0;;2025-11-16
+RES-00944;2025-10-18;"2025-10-18 16:00";"2025-10-18 17:00";cancelada;17470694-8;"pedro rojas";si;"cancha tenis aire libre";"santiago centro";25000;0;;2025-10-15
+RES-00945;2025-02-05;"2025-02-05 09:00";"2025-02-05 10:00";reservada;11086191-5;"ana silva";no;"cancha basquetbol aire libre";"la florida";25000;0;;2025-02-05
+RES-00953;2025-07-01;"2025-07-01 20:00";"2025-07-01 21:00";ejecutada;14379507-1;"juan perez";si;"cancha padel aire libre";"santa cruz";25000;25000;transferencia;2025-06-30
+RES-00955;2025-01-07;"2025-01-07 12:00";"2025-01-07 13:00";ejecutada;23731597-9;"juan perez";si;"restaurant 2";"la florida";30000;30000;tarjeta;2025-01-03
+RES-00959;2025-08-15;"2025-08-15 10:00";"2025-08-15 11:00";cancelada;6626889-6;"pedro rojas";no;"restaurant 2";"santiago centro";30000;0;;2025-08-13
+RES-00961;2025-12-05;"2025-12-05 10:00";"2025-12-05 11:00";cancelada;23491307-7;"maria gonzalez";no;"cancha futbolito techada";"santiago centro";35000;0;;2025-12-01
+RES-00962;2025-09-03;"2025-09-03 14:00";"2025-09-03 15:00";cancelada;14155657-6;"pedro rojas";si;"piscina 2";"santiago centro";20000;0;;2025-08-30
+RES-00963;2025-07-09;"2025-07-09 16:00";"2025-07-09 17:00";reservada;22287381-9;"ana silva";no;"cancha futbolito techada";providencia;35000;0;;2025-07-07
+RES-00965;2025-01-14;"2025-01-14 15:00";"2025-01-14 16:00";cancelada;15338995-0;"ana silva";si;"restaurant 2";"santiago centro";30000;0;;2025-01-14
+RES-00967;2025-12-07;"2025-12-07 18:00";"2025-12-07 19:00";ejecutada;23250659-8;"maria gonzalez";no;"cancha futbolito techada";"la florida";35000;35000;tarjeta;2025-12-04
+RES-00968;2025-03-15;"2025-03-15 17:00";"2025-03-15 18:00";cancelada;6642396-4;"maria gonzalez";si;"cancha tenis aire libre";"santa cruz";25000;0;;2025-03-10
+RES-00969;2025-11-12;"2025-11-12 19:00";"2025-11-12 20:00";ejecutada;24027614-3;"luis contreras";si;"piscina 2";"la florida";20000;20000;tarjeta;2025-11-12
+RES-00975;2025-07-17;"2025-07-17 17:00";"2025-07-17 18:00";reservada;24002475-6;"luis contreras";si;"restaurant 2";"santa cruz";30000;0;;2025-07-16
+RES-00981;2025-07-12;"2025-07-12 12:00";"2025-07-12 13:00";cancelada;17505864-8;"maria gonzalez";no;"cancha basquetbol techada";"la florida";35000;0;;2025-07-12
+RES-00982;2025-04-13;"2025-04-13 13:00";"2025-04-13 14:00";ejecutada;9203394-5;"luis contreras";si;"cancha basquetbol aire libre";"santiago centro";25000;25000;transferencia;2025-04-09
+RES-00983;2025-02-09;"2025-02-09 08:00";"2025-02-09 09:00";ejecutada;22075434-0;"ana silva";no;"cancha padel aire libre";"la florida";25000;25000;efectivo;2025-02-09
+RES-00988;2025-06-04;"2025-06-04 10:00";"2025-06-04 11:00";cancelada;19727843-9;"luis contreras";no;"cancha tenis techada";"la florida";35000;0;;2025-06-04
+RES-00990;2025-12-13;"2025-12-13 17:00";"2025-12-13 18:00";reservada;11228399-4;"pedro rojas";si;"salon eventos 2";"santiago centro";100000;0;;2025-12-08
+RES-01000;2025-02-03;"2025-02-03 15:00";"2025-02-03 16:00";reservada;23388767-6;"juan perez";no;"cancha basquetbol techada";"santa cruz";35000;0;;2025-02-02
+RES-01004;2025-08-19;"2025-08-19 16:00";"2025-08-19 17:00";ejecutada;23435811-1;"pedro rojas";no;"cancha tenis aire libre";"la florida";25000;25000;efectivo;2025-08-14
+RES-01005;2025-02-17;"2025-02-17 16:00";"2025-02-17 17:00";ejecutada;9381544-0;"pedro rojas";no;"cancha padel techada";providencia;35000;35000;efectivo;2025-02-13
+RES-01006;2025-04-08;"2025-04-08 22:00";"2025-04-08 23:00";reservada;15530992-k;"luis contreras";si;"salon eventos 1";"santa cruz";100000;0;;2025-04-08
+RES-01007;2025-03-08;"2025-03-08 17:00";"2025-03-08 18:00";cancelada;24876542-9;"maria gonzalez";no;"salon eventos 3";"santa cruz";100000;0;;2025-03-06
+RES-01010;2025-08-19;"2025-08-19 15:00";"2025-08-19 16:00";reservada;20720307-6;"luis contreras";no;"salon eventos 4";"santa cruz";100000;0;;2025-08-15
+RES-01012;2025-11-06;"2025-11-06 22:00";"2025-11-06 23:00";cancelada;11012047-8;"juan perez";no;"restaurant 2";"la florida";30000;0;;2025-11-06
+RES-01014;2025-09-14;"2025-09-14 20:00";"2025-09-14 21:00";reservada;22287381-9;"ana silva";no;"salon eventos 2";"la florida";100000;0;;2025-09-12
+RES-01015;2025-09-11;"2025-09-11 20:00";"2025-09-11 21:00";reservada;16953331-8;"pedro rojas";si;"cancha futbolito aire libre";"la florida";25000;0;;2025-09-06
+RES-01017;2025-07-05;"2025-07-05 18:00";"2025-07-05 19:00";reservada;13006129-k;"pedro rojas";si;"salon eventos 2";"la florida";100000;0;;2025-06-30
+RES-01022;2025-06-19;"2025-06-19 09:00";"2025-06-19 10:00";reservada;10837704-6;"pedro rojas";no;"cancha futbolito techada";"santiago centro";35000;0;;2025-06-16
+RES-01023;2025-05-17;"2025-05-17 11:00";"2025-05-17 12:00";ejecutada;8223654-6;"ana silva";si;"salon eventos 2";"santa cruz";100000;100000;efectivo;2025-05-16
+RES-01024;2025-05-07;"2025-05-07 20:00";"2025-05-07 21:00";cancelada;21773123-2;"luis contreras";no;"cancha basquetbol techada";"santa cruz";35000;0;;2025-05-07
+RES-01025;2026-06-12;"2026-06-14 22:00";"2026-06-14 23:00";reservada;23503123-k;"ana silva";no;"cancha padel techada";"santiago centro";35000;0;tarjeta;2025-06-05
+RES-01026;2025-12-20;"2025-12-20 19:00";"2025-12-20 20:00";ejecutada;21349217-9;"luis contreras";no;"cancha basquetbol aire libre";"la florida";25000;25000;efectivo;2025-12-16
+RES-01027;2025-06-03;"2025-06-03 10:00";"2025-06-03 11:00";reservada;11984768-0;"luis contreras";no;"cancha futbolito techada";"santa cruz";35000;0;;2025-06-03
+RES-01029;2025-09-01;"2025-09-01 20:00";"2025-09-01 21:00";ejecutada;9108775-8;"ana silva";si;"salon eventos 3";"santa cruz";100000;100000;tarjeta;2025-08-30
+RES-01031;2025-11-15;"2025-11-15 09:00";"2025-11-15 10:00";cancelada;18646254-8;"pedro rojas";si;"cancha futbolito techada";providencia;35000;0;;2025-11-14
+RES-01033;2025-06-02;"2025-06-02 09:00";"2025-06-02 10:00";reservada;19544570-2;"maria gonzalez";si;"piscina 1";providencia;20000;0;;2025-05-29
+RES-01034;2025-12-12;"2025-12-12 18:00";"2025-12-12 19:00";ejecutada;18467664-8;"pedro rojas";no;"cancha padel techada";"santiago centro";35000;35000;transferencia;2025-12-07
+RES-01035;2025-09-07;"2025-09-07 21:00";"2025-09-07 22:00";reservada;20194778-2;"ana silva";si;"cancha padel techada";"santiago centro";35000;0;;2025-09-07
+RES-01036;2025-01-08;"2025-01-08 11:00";"2025-01-08 12:00";ejecutada;19211618-k;"luis contreras";si;"cancha tenis aire libre";"santiago centro";25000;25000;transferencia;2025-01-07
+RES-01040;2025-01-13;"2025-01-13 21:00";"2025-01-13 22:00";reservada;5137322-7;"juan perez";no;"cancha tenis aire libre";"la florida";25000;0;;2025-01-08
+RES-01041;2025-04-16;"2025-04-16 10:00";"2025-04-16 11:00";reservada;16253483-1;"maria gonzalez";no;"salon eventos 3";providencia;100000;0;;2025-04-16
+RES-01042;2025-09-08;"2025-09-08 18:00";"2025-09-08 19:00";cancelada;10949220-5;"maria gonzalez";no;"cancha padel techada";"santa cruz";35000;0;;2025-09-08
+RES-01043;2025-05-14;"2025-05-14 13:00";"2025-05-14 14:00";ejecutada;6642396-4;"maria gonzalez";no;"restaurant 1";providencia;30000;30000;tarjeta;2025-05-13
+RES-01048;2025-09-16;"2025-09-16 20:00";"2025-09-16 21:00";ejecutada;24945636-5;"ana silva";si;"salon eventos 2";"la florida";100000;100000;efectivo;2025-09-14
+RES-01049;2025-09-07;"2025-09-07 20:00";"2025-09-07 21:00";ejecutada;22078734-6;"pedro rojas";si;"salon eventos 4";"santa cruz";100000;100000;efectivo;2025-09-04
+RES-01050;2025-03-04;"2025-03-04 22:00";"2025-03-04 23:00";cancelada;10145466-5;"pedro rojas";si;"piscina 2";providencia;20000;0;;2025-03-04
+RES-01051;2025-03-04;"2025-03-04 13:00";"2025-03-04 14:00";cancelada;20997181-k;"juan perez";si;"restaurant 1";providencia;30000;0;;2025-02-27
+RES-01052;2025-06-11;"2025-06-11 10:00";"2025-06-11 11:00";ejecutada;13914038-9;"luis contreras";si;"restaurant 2";"la florida";30000;30000;efectivo;2025-06-06
+RES-01053;2025-02-04;"2025-02-04 13:00";"2025-02-04 14:00";cancelada;6988936-0;"maria gonzalez";si;"cancha padel aire libre";"santiago centro";25000;0;;2025-02-03
+RES-01054;2025-10-07;"2025-10-07 12:00";"2025-10-07 13:00";reservada;15585247-k;"pedro rojas";si;"salon eventos 2";"la florida";100000;0;;2025-10-05
+RES-01056;2025-08-15;"2025-08-15 20:00";"2025-08-15 21:00";reservada;23433621-5;"maria gonzalez";si;"cancha tenis aire libre";"la florida";25000;0;;2025-08-14
+RES-01063;2025-12-06;"2025-12-06 19:00";"2025-12-06 20:00";ejecutada;24635453-7;"juan perez";no;"salon eventos 4";providencia;100000;100000;transferencia;2025-12-04
+RES-01064;2025-12-15;"2025-12-15 19:00";"2025-12-15 20:00";ejecutada;21156024-k;"maria gonzalez";si;"restaurant 1";providencia;30000;30000;tarjeta;2025-12-11
+RES-01066;2025-05-12;"2025-05-12 11:00";"2025-05-12 12:00";cancelada;6512346-0;"maria gonzalez";no;"cancha futbolito techada";providencia;35000;0;;2025-05-12
+RES-01068;2025-07-05;"2025-07-05 11:00";"2025-07-05 12:00";reservada;6442121-2;"pedro rojas";si;"cancha futbolito aire libre";providencia;25000;0;;2025-07-03
+RES-01069;2025-06-01;"2025-06-01 09:00";"2025-06-01 10:00";cancelada;19544570-2;"maria gonzalez";no;"salon eventos 1";"la florida";100000;0;;2025-05-28
+RES-01071;2025-05-05;"2025-05-05 16:00";"2025-05-05 17:00";ejecutada;22256719-k;"ana silva";no;"cancha tenis aire libre";"la florida";25000;25000;efectivo;2025-05-01
+RES-01075;2025-11-16;"2025-11-16 17:00";"2025-11-16 18:00";reservada;24795565-8;"luis contreras";no;"cancha tenis aire libre";"la florida";25000;0;;2025-11-11
+RES-01076;2025-01-14;"2025-01-14 16:00";"2025-01-14 17:00";ejecutada;15807009-k;"luis contreras";no;"cancha tenis aire libre";"la florida";25000;25000;tarjeta;2025-01-13
+RES-01077;2026-06-15;"2026-06-17 10:00";"2026-06-17 11:00";reservada;11984768-0;"luis contreras";si;"cancha tenis aire libre";"santiago centro";25000;0;;2025-11-18
+RES-01079;2025-09-09;"2025-09-09 10:00";"2025-09-09 11:00";ejecutada;22075434-0;"ana silva";si;"cancha futbolito aire libre";"santa cruz";25000;25000;tarjeta;2025-09-06
+RES-01081;2025-11-13;"2025-11-13 19:00";"2025-11-13 20:00";ejecutada;19484029-2;"luis contreras";no;"salon eventos 2";"santa cruz";100000;100000;transferencia;2025-11-12
+RES-01085;2025-09-16;"2025-09-16 20:00";"2025-09-16 21:00";reservada;7479790-3;"luis contreras";si;"salon eventos 2";"santiago centro";100000;0;;2025-09-15
+RES-01086;2025-07-19;"2025-07-19 18:00";"2025-07-19 19:00";reservada;20727566-2;"juan perez";si;"piscina 1";providencia;20000;0;;2025-07-14
+RES-01089;2025-01-10;"2025-01-10 11:00";"2025-01-10 12:00";reservada;23457711-5;"luis contreras";si;"piscina 2";"santiago centro";20000;0;;2025-01-10
+RES-01090;2025-10-04;"2025-10-04 08:00";"2025-10-04 09:00";reservada;12922397-9;"maria gonzalez";si;"restaurant 2";"santiago centro";30000;0;;2025-09-29
+RES-01091;2025-03-12;"2025-03-12 21:00";"2025-03-12 22:00";cancelada;11521745-3;"ana silva";si;"salon eventos 1";providencia;100000;0;;2025-03-11
+RES-01095;2025-08-08;"2025-08-08 10:00";"2025-08-08 11:00";reservada;17453904-9;"ana silva";si;"cancha futbolito techada";"la florida";35000;0;;2025-08-07
+RES-01097;2025-05-19;"2025-05-19 08:00";"2025-05-19 09:00";ejecutada;12730200-6;"maria gonzalez";no;"salon eventos 4";"santiago centro";100000;100000;efectivo;2025-05-16
+RES-01098;2025-06-15;"2025-06-15 09:00";"2025-06-15 10:00";ejecutada;13761426-k;"maria gonzalez";no;"piscina 2";"la florida";20000;20000;efectivo;2025-06-11
+RES-01101;2025-02-09;"2025-02-09 13:00";"2025-02-09 14:00";ejecutada;11541623-5;"maria gonzalez";no;"cancha basquetbol aire libre";"santiago centro";25000;25000;transferencia;2025-02-08
+RES-01103;2025-11-19;"2025-11-19 13:00";"2025-11-19 14:00";reservada;21554696-9;"maria gonzalez";si;"cancha padel aire libre";"la florida";25000;0;;2025-11-17
+RES-01104;2025-07-05;"2025-07-05 13:00";"2025-07-05 14:00";ejecutada;20928234-8;"pedro rojas";no;"salon eventos 3";providencia;100000;100000;tarjeta;2025-06-30
+RES-01105;2025-03-12;"2025-03-12 13:00";"2025-03-12 14:00";ejecutada;18154120-2;"maria gonzalez";si;"piscina 1";"santiago centro";20000;20000;tarjeta;2025-03-09
+RES-01106;2025-03-18;"2025-03-18 11:00";"2025-03-18 12:00";cancelada;16848416-1;"ana silva";no;"salon eventos 1";"santa cruz";100000;0;;2025-03-13
+RES-01107;2025-12-09;"2025-12-09 20:00";"2025-12-09 21:00";ejecutada;21156024-k;"maria gonzalez";si;"cancha padel techada";"la florida";35000;35000;transferencia;2025-12-05
+RES-01108;2025-07-08;"2025-07-08 11:00";"2025-07-08 12:00";reservada;16253483-1;"maria gonzalez";no;"cancha tenis techada";"la florida";35000;0;;2025-07-07
+RES-01109;2025-05-13;"2025-05-13 21:00";"2025-05-13 22:00";cancelada;10934689-6;"pedro rojas";si;"restaurant 2";providencia;30000;0;;2025-05-13
+RES-01111;2025-11-19;"2025-11-19 20:00";"2025-11-19 21:00";reservada;5854603-8;"luis contreras";no;"cancha basquetbol aire libre";"la florida";25000;0;;2025-11-14
+RES-01114;2025-08-11;"2025-08-11 16:00";"2025-08-11 17:00";ejecutada;7106046-2;"maria gonzalez";si;"piscina 2";"santa cruz";20000;20000;transferencia;2025-08-08
+RES-01116;2025-06-13;"2025-06-13 09:00";"2025-06-13 10:00";ejecutada;12453493-3;"juan perez";no;"restaurant 1";providencia;30000;30000;transferencia;2025-06-09
+RES-01120;2025-06-03;"2025-06-03 16:00";"2025-06-03 17:00";cancelada;23849659-4;"maria gonzalez";si;"salon eventos 1";"santiago centro";100000;0;;2025-06-01
+RES-01123;2025-02-15;"2025-02-15 22:00";"2025-02-15 23:00";reservada;8722237-3;"juan perez";no;"salon eventos 1";"santiago centro";100000;0;;2025-02-13
+RES-01127;2025-12-11;"2025-12-11 18:00";"2025-12-11 19:00";cancelada;5645014-9;"pedro rojas";no;"cancha futbolito aire libre";providencia;25000;0;;2025-12-06
+RES-01140;2025-08-17;"2025-08-17 15:00";"2025-08-17 16:00";ejecutada;6559917-1;"maria gonzalez";no;"cancha basquetbol aire libre";"santiago centro";25000;25000;efectivo;2025-08-16
+RES-01150;2025-06-13;"2025-06-13 15:00";"2025-06-13 16:00";cancelada;22863706-8;"luis contreras";si;"salon eventos 2";"la florida";100000;0;;2025-06-11
+RES-01152;2025-12-16;"2025-12-16 10:00";"2025-12-16 11:00";ejecutada;7106046-2;"maria gonzalez";si;"salon eventos 1";"la florida";100000;100000;tarjeta;2025-12-12
+RES-01154;2025-04-04;"2025-04-04 19:00";"2025-04-04 20:00";reservada;17674128-7;"pedro rojas";no;"salon eventos 1";providencia;100000;0;;2025-04-03
+RES-01155;2026-06-22;"2026-06-24 12:00";"2026-06-28 12:00";reservada;11121655-k;juan;no;"cabana 4";"la florida";480000;0;;2025-11-07
+RES-01158;2025-04-10;"2025-04-10 20:00";"2025-04-10 21:00";reservada;19631766-k;"maria gonzalez";no;"cancha padel techada";"la florida";35000;0;;2025-04-10
+RES-01159;2025-11-11;"2025-11-11 17:00";"2025-11-11 18:00";ejecutada;23302730-8;"maria gonzalez";no;"cancha basquetbol aire libre";"la florida";25000;25000;efectivo;2025-11-11
+RES-01160;2025-05-01;"2025-05-01 09:00";"2025-05-01 10:00";reservada;22966221-k;"maria gonzalez";no;"salon eventos 4";providencia;100000;0;;2025-04-30
+RES-01161;2025-09-08;"2025-09-08 20:00";"2025-09-08 21:00";reservada;7735551-0;"ana silva";si;"cancha tenis techada";"santa cruz";35000;0;;2025-09-04
+RES-01163;2025-05-09;"2025-05-09 11:00";"2025-05-09 12:00";reservada;9203394-5;"luis contreras";si;"cancha basquetbol aire libre";"santiago centro";25000;0;;2025-05-05
+RES-01169;2025-06-01;"2025-06-01 18:00";"2025-06-01 19:00";reservada;24795565-8;"luis contreras";si;"cancha futbolito techada";providencia;35000;0;;2025-06-01
+RES-01172;2025-03-07;"2025-03-07 12:00";"2025-03-07 13:00";reservada;24945636-5;"ana silva";si;"restaurant 1";"la florida";30000;0;;2025-03-07
+RES-01175;2025-08-05;"2025-08-05 16:00";"2025-08-05 17:00";cancelada;13775714-1;"luis contreras";si;"cancha tenis techada";"santa cruz";35000;0;;2025-07-31
+RES-01182;2026-06-15;"2026-06-17 03:30";"2026-06-26 03:30";reservada;6858349-7;"luis contreras";si;"cabana 1";"la florida";1080000;0;;2025-02-14
+RES-01188;2025-11-01;"2025-11-01 16:00";"2025-11-01 17:00";cancelada;13203913-5;"maria gonzalez";no;"piscina 1";"santiago centro";20000;0;;2025-10-30
+RES-01190;2025-10-13;"2025-10-13 20:00";"2025-10-13 21:00";reservada;7812836-4;"pedro rojas";no;"cancha futbolito aire libre";"santiago centro";25000;0;;2025-10-11
+RES-01191;2025-07-15;"2025-07-15 12:00";"2025-07-15 13:00";reservada;10145466-5;"pedro rojas";no;"salon eventos 2";"la florida";100000;0;;2025-07-11
+RES-01193;2025-11-07;"2025-11-07 22:00";"2025-11-07 23:00";reservada;13534305-6;"juan perez";no;"salon eventos 3";providencia;100000;0;;2025-11-02
+RES-01194;2025-04-05;"2025-04-05 09:00";"2025-04-05 10:00";reservada;7544276-9;"maria gonzalez";si;"cancha futbolito techada";"santa cruz";35000;0;;2025-03-31
+RES-01195;2025-05-16;"2025-05-16 14:00";"2025-05-16 15:00";ejecutada;19652678-1;"juan perez";si;"restaurant 1";"la florida";30000;30000;efectivo;2025-05-14
+RES-01196;2025-05-04;"2025-05-04 09:00";"2025-05-04 10:00";cancelada;21841410-9;"juan perez";si;"salon eventos 3";"la florida";100000;0;;2025-05-02
+RES-01197;2025-12-10;"2025-12-10 20:00";"2025-12-10 21:00";ejecutada;7686256-8;"luis contreras";no;"cancha tenis techada";"santiago centro";35000;35000;transferencia;2025-12-10
+RES-01198;2025-11-15;"2025-11-15 22:00";"2025-11-15 23:00";reservada;16848416-k;"ana silva";no;"piscina 1";"santa cruz";20000;0;;2025-11-14
+RES-01199;2025-01-17;"2025-01-17 10:00";"2025-01-17 11:00";ejecutada;5643136-5;"juan perez";si;"salon eventos 3";"la florida";100000;100000;tarjeta;2025-01-17
+RES-01200;2025-11-10;"2025-11-10 13:00";"2025-11-10 14:00";ejecutada;13288053-0;"luis contreras";si;"cancha futbolito aire libre";"la florida";25000;25000;transferencia;2025-11-05
+RES-01201;2025-05-06;"2025-05-06 13:00";"2025-05-06 14:00";cancelada;15345989-4;"pedro rojas";no;"cancha padel aire libre";providencia;25000;0;;2025-05-06
+RES-01202;2025-03-19;"2025-03-19 15:00";"2025-03-19 16:00";ejecutada;19484029-2;"luis contreras";si;"cancha basquetbol aire libre";"santa cruz";25000;25000;transferencia;2025-03-14
+RES-01203;2025-06-14;"2025-06-14 11:00";"2025-06-14 12:00";cancelada;12353825-0;"ana silva";si;"restaurant 2";"la florida";30000;0;;2025-06-12
+RES-01205;2025-02-09;"2025-02-09 08:00";"2025-02-09 09:00";reservada;15505875-7;"pedro rojas";si;"cancha basquetbol aire libre";"la florida";25000;0;;2025-02-06
+RES-01208;2025-07-11;"2025-07-11 08:00";"2025-07-11 09:00";reservada;5135966-6;"pedro rojas";no;"restaurant 1";"la florida";30000;0;;2025-07-08
+RES-01210;2025-09-16;"2025-09-16 09:00";"2025-09-16 10:00";ejecutada;21821683-8;"maria gonzalez";si;"restaurant 2";providencia;30000;30000;efectivo;2025-09-13
+RES-01215;2025-03-18;"2025-03-18 14:00";"2025-03-18 15:00";ejecutada;16741872-4;"maria gonzalez";si;"salon eventos 3";"santa cruz";100000;100000;tarjeta;2025-03-15
+RES-01217;2025-10-16;"2025-10-16 15:00";"2025-10-16 16:00";cancelada;15047491-4;"ana silva";si;"cancha futbolito techada";"santiago centro";35000;0;;2025-10-13
+RES-01226;2025-01-09;"2025-01-09 17:00";"2025-01-09 18:00";cancelada;23849659-4;"maria gonzalez";si;"cancha tenis aire libre";"santiago centro";25000;0;;2025-01-04
+RES-01228;2025-03-15;"2025-03-15 15:00";"2025-03-15 16:00";ejecutada;17275270-5;"pedro rojas";no;"cancha padel techada";"la florida";35000;35000;transferencia;2025-03-14
+RES-01234;2025-11-18;"2025-11-18 17:00";"2025-11-18 18:00";reservada;15121060-0;"ana silva";si;"restaurant 1";"santiago centro";30000;0;;2025-11-15
+RES-01235;2025-01-13;"2025-01-13 16:00";"2025-01-13 17:00";reservada;23046980-6;"luis contreras";si;"salon eventos 4";"santa cruz";100000;0;;2025-01-11
+RES-01241;2025-01-08;"2025-01-08 12:00";"2025-01-08 13:00";cancelada;14150365-0;"juan perez";no;"cancha futbolito aire libre";providencia;25000;0;;2025-01-03
+RES-01246;2025-05-12;"2025-05-12 11:00";"2025-05-12 12:00";reservada;19332680-3;"ana silva";si;"restaurant 2";"santiago centro";30000;0;;2025-05-07
+RES-01247;2025-10-06;"2025-10-06 18:00";"2025-10-06 19:00";reservada;24427724-1;"maria gonzalez";si;"cancha futbolito aire libre";"santiago centro";25000;0;;2025-10-01
+RES-01248;2025-11-04;"2025-11-04 12:00";"2025-11-04 13:00";cancelada;7415624-k;"juan perez";no;"salon eventos 1";"santiago centro";100000;0;;2025-11-02
+RES-01255;2025-02-01;"2025-02-01 12:00";"2025-02-01 13:00";cancelada;9381544-0;"pedro rojas";no;"salon eventos 4";providencia;100000;0;;2025-01-27
+RES-01258;2025-06-16;"2025-06-16 19:00";"2025-06-16 20:00";cancelada;17263289-0;"juan perez";si;"salon eventos 3";"la florida";100000;0;;2025-06-16
+RES-01260;2025-01-07;"2025-01-07 19:00";"2025-01-07 20:00";cancelada;10981983-2;"pedro rojas";no;"salon eventos 4";"santa cruz";100000;0;;2025-01-05
+RES-01261;2025-11-06;"2025-11-06 14:00";"2025-11-06 15:00";reservada;19208091-6;"maria gonzalez";no;"cancha basquetbol aire libre";"la florida";25000;0;;2025-11-05
+RES-01263;2025-12-20;"2025-12-20 19:00";"2025-12-20 20:00";cancelada;19020373-5;"juan perez";no;"restaurant 1";"santiago centro";30000;0;;2025-12-17
+RES-01264;2026-06-30;"2026-07-02 18:30";"2026-07-09 18:30";reservada;16170965-4;"luis contreras";no;"cabana 14";"la florida";840000;840000;;2025-08-10
+RES-01265;2025-06-16;"2025-06-16 09:00";"2025-06-16 10:00";cancelada;10527082-8;"ana silva";no;"salon eventos 3";providencia;100000;0;;2025-06-11
+RES-01269;2025-05-13;"2025-05-13 11:00";"2025-05-13 12:00";reservada;16408231-8;"juan perez";no;"cancha futbolito techada";"la florida";35000;0;;2025-05-08
+RES-01275;2025-08-17;"2025-08-17 16:00";"2025-08-17 17:00";ejecutada;9571085-9;"juan perez";si;"restaurant 2";"santa cruz";30000;30000;efectivo;2025-08-12
+RES-01278;2025-06-02;"2025-06-02 08:00";"2025-06-02 09:00";reservada;12275678-5;"juan perez";no;"cancha padel techada";"la florida";35000;0;;2025-06-02
+RES-01281;2025-02-01;"2025-02-01 13:00";"2025-02-01 14:00";cancelada;17877832-5;"pedro rojas";no;"cancha padel techada";"la florida";35000;0;;2025-01-30
+RES-01282;2025-12-13;"2025-12-13 08:00";"2025-12-13 09:00";reservada;18692916-0;"ana silva";si;"cancha tenis aire libre";"la florida";25000;0;;2025-12-12
+RES-01283;2025-01-03;"2025-01-03 20:00";"2025-01-03 21:00";reservada;8923088-8;"pedro rojas";si;"restaurant 2";"santa cruz";30000;0;;2024-12-31
+RES-01284;2025-02-11;"2025-02-11 12:00";"2025-02-11 13:00";ejecutada;8084042-k;"maria gonzalez";no;"piscina 1";"santa cruz";20000;20000;transferencia;2025-02-10
+RES-01286;2025-04-04;"2025-04-04 17:00";"2025-04-04 18:00";cancelada;5058687-1;"ana silva";si;"salon eventos 1";"la florida";100000;0;;2025-04-02
+RES-01292;2025-06-11;"2025-06-11 15:00";"2025-06-11 16:00";reservada;6353165-0;"ana silva";si;"salon eventos 3";"santa cruz";100000;0;;2025-06-11
+RES-01294;2025-01-13;"2025-01-13 10:00";"2025-01-13 11:00";reservada;9486514-0;"luis contreras";no;"salon eventos 3";"santiago centro";100000;0;;2025-01-11
+RES-01303;2025-10-17;"2025-10-17 14:00";"2025-10-17 15:00";reservada;23491307-7;"maria gonzalez";no;"cancha futbolito aire libre";"santa cruz";25000;0;;2025-10-12
+RES-01304;2025-05-16;"2025-05-16 10:00";"2025-05-16 11:00";ejecutada;21351051-7;"ana silva";no;"piscina 2";providencia;20000;20000;transferencia;2025-05-15
+RES-01307;2025-12-06;"2025-12-06 14:00";"2025-12-06 15:00";cancelada;8482497-6;"ana silva";no;"cancha basquetbol techada";"la florida";35000;0;;2025-12-01
+RES-01309;2025-07-01;"2025-07-01 22:00";"2025-07-01 23:00";cancelada;18776636-2;"pedro rojas";si;"piscina 2";"santiago centro";20000;0;;2025-06-30
+RES-01310;2025-07-14;"2025-07-14 10:00";"2025-07-14 11:00";ejecutada;16949644-7;"pedro rojas";no;"restaurant 2";"la florida";30000;30000;transferencia;2025-07-12
+RES-01311;2025-11-19;"2025-11-19 12:00";"2025-11-19 13:00";reservada;23684083-7;"pedro rojas";si;"cancha padel techada";"santiago centro";35000;0;;2025-11-16
+RES-01315;2025-05-20;"2025-05-20 13:00";"2025-05-20 14:00";cancelada;12651989-3;"luis contreras";si;"cancha tenis aire libre";"santa cruz";25000;0;;2025-05-19
+RES-01316;2025-10-11;"2025-10-11 15:00";"2025-10-11 16:00";reservada;19197001-2;"ana silva";si;"cancha futbolito aire libre";providencia;25000;0;;2025-10-09
+RES-01319;2025-05-10;"2025-05-10 20:00";"2025-05-10 21:00";ejecutada;15944877-0;"maria gonzalez";si;"salon eventos 2";providencia;100000;100000;tarjeta;2025-05-09
+RES-01322;2025-12-08;"2025-12-08 21:00";"2025-12-08 22:00";cancelada;13098747-8;"ana silva";si;"restaurant 1";"santiago centro";30000;0;;2025-12-04
+RES-01323;2025-12-02;"2025-12-02 09:00";"2025-12-02 10:00";reservada;7500349-8;"pedro rojas";no;"restaurant 1";providencia;30000;0;;2025-12-02
+RES-01324;2025-04-02;"2025-04-02 12:00";"2025-04-02 13:00";ejecutada;7884115-k;"luis contreras";si;"cancha basquetbol aire libre";providencia;25000;25000;efectivo;2025-03-30
+RES-01326;2025-08-17;"2025-08-17 19:00";"2025-08-17 20:00";cancelada;19208091-6;maria;no;"salon eventos 1";"santiago centro";100000;0;;2025-08-13
+RES-01329;2025-01-02;"2025-01-02 19:00";"2025-01-02 20:00";cancelada;18468277-k;"luis contreras";si;"cancha basquetbol aire libre";"la florida";25000;0;;2024-12-30
+RES-01330;2025-01-19;"2025-01-19 12:00";"2025-01-19 13:00";cancelada;15807009-k;"luis contreras";si;"salon eventos 3";"la florida";100000;0;;2025-01-16
+RES-01332;2025-02-09;"2025-02-09 21:00";"2025-02-09 22:00";cancelada;13233936-1;"maria gonzalez";si;"salon eventos 4";providencia;100000;0;;2025-02-08
+RES-01333;2025-08-08;"2025-08-08 21:00";"2025-08-08 22:00";reservada;5779517-4;"luis contreras";no;"restaurant 2";"la florida";30000;0;;2025-08-08
+RES-01339;2025-07-04;"2025-07-04 09:00";"2025-07-04 10:00";ejecutada;16889614-k;"pedro rojas";no;"piscina 1";providencia;20000;20000;transferencia;2025-06-30
+RES-01340;2025-06-03;"2025-06-03 09:00";"2025-06-03 10:00";cancelada;9392933-0;"pedro rojas";si;"restaurant 2";"santa cruz";30000;0;;2025-06-03
+RES-01342;2025-03-15;"2025-03-15 15:00";"2025-03-15 16:00";reservada;22381571-5;"juan perez";si;"salon eventos 1";providencia;100000;0;;2025-03-10
+RES-01345;2025-01-13;"2025-01-13 09:00";"2025-01-13 10:00";ejecutada;6440714-7;"ana silva";no;"cancha tenis aire libre";providencia;25000;25000;efectivo;2025-01-12
+RES-01346;2025-01-05;"2025-01-05 14:00";"2025-01-05 15:00";reservada;14294949-0;"ana silva";si;"salon eventos 2";"santiago centro";100000;0;;2025-01-01
+RES-01348;2025-02-20;"2025-02-20 19:00";"2025-02-20 20:00";ejecutada;17230874-0;"juan perez";no;"salon eventos 2";"santa cruz";100000;100000;transferencia;2025-02-18
+RES-01349;2025-03-07;"2025-03-07 12:00";"2025-03-07 13:00";ejecutada;16887747-1;"luis contreras";no;"cancha tenis aire libre";"la florida";25000;25000;tarjeta;2025-03-06
+RES-01356;2025-07-12;"2025-07-12 22:00";"2025-07-12 23:00";ejecutada;16889614-k;"pedro rojas";si;"salon eventos 4";"la florida";100000;100000;transferencia;2025-07-11
+RES-01369;2025-03-20;"2025-03-20 16:00";"2025-03-20 17:00";cancelada;10701066-1;"maria gonzalez";si;"restaurant 2";"santiago centro";30000;0;;2025-03-15
+RES-01370;2025-01-13;"2025-01-13 19:00";"2025-01-13 20:00";cancelada;24859483-7;"luis contreras";no;"cancha tenis aire libre";"la florida";25000;0;;2025-01-10
+RES-01376;2025-09-03;"2025-09-03 15:00";"2025-09-03 16:00";ejecutada;22075434-0;"ana silva";no;"salon eventos 3";providencia;100000;100000;efectivo;2025-08-30
+RES-01379;2025-12-05;"2025-12-05 08:00";"2025-12-05 09:00";ejecutada;15694640-0;"maria gonzalez";no;"salon eventos 3";"la florida";100000;100000;tarjeta;2025-12-04
+RES-01381;2025-11-10;"2025-11-10 11:00";"2025-11-10 12:00";ejecutada;12192627-k;"pedro rojas";si;"cancha padel aire libre";providencia;25000;25000;tarjeta;2025-11-07
+RES-01384;2025-03-01;"2025-03-01 12:00";"2025-03-01 13:00";reservada;13519552-9;"juan perez";si;"piscina 1";"santa cruz";20000;0;;2025-02-25
+RES-01388;2025-04-17;"2025-04-17 16:00";"2025-04-17 17:00";cancelada;6614380-5;"luis contreras";no;"salon eventos 3";"santiago centro";100000;0;;2025-04-14
+RES-01390;2025-03-01;"2025-03-01 11:00";"2025-03-01 12:00";cancelada;21882154-5;"maria gonzalez";no;"cancha basquetbol techada";"santa cruz";35000;0;;2025-02-25
+RES-01392;2025-09-01;"2025-09-01 16:00";"2025-09-01 17:00";reservada;12592948-6;"ana silva";si;"restaurant 2";providencia;30000;0;;2025-08-28
+RES-01393;2025-07-16;"2025-07-16 10:00";"2025-07-16 11:00";ejecutada;24256806-0;"pedro rojas";si;"cancha basquetbol aire libre";"santiago centro";25000;25000;efectivo;2025-07-12
+RES-01394;2025-10-04;"2025-10-04 09:00";"2025-10-04 10:00";reservada;20609781-7;"pedro rojas";no;"restaurant 2";"la florida";30000;0;;2025-10-04
+RES-01400;2025-10-09;"2025-10-09 08:00";"2025-10-09 09:00";cancelada;22329198-8;"luis contreras";no;"salon eventos 2";"la florida";100000;0;;2025-10-05
+RES-01403;2025-03-02;"2025-03-02 16:00";"2025-03-02 17:00";reservada;15120266-7;"juan perez";si;"piscina 2";"santa cruz";20000;0;;2025-02-26
+RES-01405;2025-07-16;"2025-07-16 14:00";"2025-07-16 15:00";reservada;23369020-1;"ana silva";si;"cancha basquetbol aire libre";"santiago centro";25000;0;;2025-07-16
+RES-01412;2025-03-03;"2025-03-03 15:00";"2025-03-03 16:00";ejecutada;21162735-2;"juan perez";si;"salon eventos 1";"la florida";100000;100000;tarjeta;2025-02-27
+RES-01413;2025-09-19;"2025-09-19 11:00";"2025-09-19 12:00";cancelada;13006129-k;"pedro rojas";no;"cancha basquetbol techada";providencia;35000;0;;2025-09-18
+RES-01415;2025-06-11;"2025-06-11 08:00";"2025-06-11 09:00";cancelada;21178138-6;"ana silva";si;"cancha padel aire libre";"la florida";25000;0;;2025-06-06
+RES-01417;2025-07-07;"2025-07-07 14:00";"2025-07-07 15:00";ejecutada;14394380-1;"pedro rojas";no;"cancha tenis techada";"la florida";35000;35000;tarjeta;2025-07-06
+RES-01418;2025-11-16;"2025-11-16 17:00";"2025-11-16 18:00";reservada;13014055-6;"maria gonzalez";no;"salon eventos 1";"santiago centro";100000;0;;2025-11-16
+RES-01420;2025-04-13;"2025-04-13 19:00";"2025-04-13 20:00";cancelada;23684083-2;"pedro rojas";si;"cancha futbolito aire libre";providencia;25000;0;;2025-04-09
+RES-01425;2025-02-03;"2025-02-03 14:00";"2025-02-03 15:00";ejecutada;12341381-4;"luis contreras";si;"salon eventos 3";providencia;100000;100000;transferencia;2025-01-30
+RES-01426;2025-04-20;"2025-04-20 10:00";"2025-04-20 11:00";cancelada;17678051-7;"juan perez";si;"cancha basquetbol aire libre";"santa cruz";25000;0;;2025-04-20
+RES-01427;2025-12-18;"2025-12-18 08:00";"2025-12-18 09:00";cancelada;8009585-6;"luis contreras";si;"cancha tenis aire libre";providencia;25000;0;;2025-12-13
+RES-01428;2025-04-03;"2025-04-03 21:00";"2025-04-03 22:00";reservada;20548964-9;"maria gonzalez";si;"restaurant 1";"santa cruz";30000;0;;2025-04-03
+RES-01430;2025-10-08;"2025-10-08 10:00";"2025-10-08 11:00";ejecutada;10679568-1;"luis contreras";si;"cancha tenis aire libre";"santiago centro";25000;25000;transferencia;2025-10-06
+RES-01432;2025-11-18;"2025-11-18 15:00";"2025-11-18 16:00";reservada;20666104-6;"juan perez";no;"restaurant 2";"santiago centro";30000;0;;2025-11-17
+RES-01433;2025-08-14;"2025-08-14 18:00";"2025-08-14 19:00";reservada;16530236-2;"pedro rojas";si;"salon eventos 3";"santa cruz";100000;0;;2025-08-10
+RES-01436;2025-03-17;"2025-03-17 09:00";"2025-03-17 10:00";cancelada;16984924-2;"pedro rojas";si;"cancha futbolito techada";providencia;35000;0;;2025-03-14
+RES-01439;2025-07-20;"2025-07-20 22:00";"2025-07-20 23:00";cancelada;21525938-2;"ana silva";no;"cancha padel aire libre";"la florida";25000;0;;2025-07-19
+RES-01441;2025-03-03;"2025-03-03 21:00";"2025-03-03 22:00";cancelada;6126625-9;"maria gonzalez";si;"salon eventos 3";"santiago centro";100000;0;;2025-02-27
+RES-01442;2025-08-02;"2025-08-02 19:00";"2025-08-02 20:00";cancelada;20394775-5;"pedro rojas";si;"piscina 2";"la florida";20000;0;;2025-07-31
+RES-01444;2025-08-02;"2025-08-02 18:00";"2025-08-02 19:00";ejecutada;6436217-8;"pedro rojas";si;"restaurant 2";"la florida";30000;30000;efectivo;2025-08-02
+RES-01446;2025-08-02;"2025-08-02 14:00";"2025-08-02 15:00";reservada;17213598-6;"pedro rojas";si;"cancha basquetbol techada";providencia;35000;0;;2025-07-31
+RES-01456;2025-08-04;"2025-08-04 11:00";"2025-08-04 12:00";reservada;13761426-k;"maria gonzalez";si;"cancha basquetbol aire libre";"la florida";25000;0;;2025-08-02
+RES-01461;2026-07-14;"2026-07-16 14:30";"2026-07-16 15:30";reservada;9680719-8;"ana silva";no;"salon eventos 4";"la florida";100000;0;;2025-02-02
+RES-01463;2026-07-14;"2026-07-16 19:30";"2026-07-26 19:30";reservada;11483413-0;"ana silva";no;"cabana 17";"santiago centro";1200000;0;;2025-07-18
+RES-01465;2025-05-10;"2025-05-10 11:00";"2025-05-10 12:00";ejecutada;21452115-6;"pedro rojas";no;"cancha padel techada";providencia;35000;35000;transferencia;2025-05-06
+RES-01466;2025-11-12;"2025-11-12 16:00";"2025-11-12 17:00";ejecutada;24639890-9;"luis contreras";no;"cancha futbolito aire libre";providencia;25000;25000;efectivo;2025-11-12
+RES-01467;2025-06-16;"2025-06-16 20:00";"2025-06-16 21:00";cancelada;17786278-9;"juan perez";no;"cancha basquetbol aire libre";"la florida";25000;0;;2025-06-12
+RES-01476;2025-04-03;"2025-04-03 20:00";"2025-04-03 21:00";cancelada;5633053-4;"maria gonzalez";no;"cancha padel aire libre";"santiago centro";25000;0;;2025-03-31
+RES-01478;2025-02-06;"2025-02-06 19:00";"2025-02-06 20:00";reservada;9179703-8;"maria gonzalez";no;"salon eventos 2";"santa cruz";100000;0;;2025-02-06
+RES-01484;2025-03-15;"2025-03-15 18:00";"2025-03-15 19:00";reservada;5590602-5;"juan perez";no;"cancha basquetbol techada";"santa cruz";35000;0;;2025-03-15
+RES-01486;2025-05-03;"2025-05-03 10:00";"2025-05-03 11:00";ejecutada;16054257-8;"luis contreras";si;"restaurant 2";"santa cruz";30000;30000;transferencia;2025-05-02
+RES-01488;2025-08-13;"2025-08-13 10:00";"2025-08-13 11:00";ejecutada;6126625-9;"maria gonzalez";no;"salon eventos 4";"santa cruz";100000;100000;tarjeta;2025-08-10
+RES-01490;2025-10-07;"2025-10-07 13:00";"2025-10-07 14:00";cancelada;17186404-6;"ana silva";no;"cancha tenis aire libre";"santiago centro";25000;0;;2025-10-07
+RES-01493;2025-10-11;"2025-10-11 19:00";"2025-10-11 20:00";reservada;12385234-6;"maria gonzalez";no;"salon eventos 2";"la florida";100000;0;;2025-10-06
+RES-01494;2025-05-16;"2025-05-16 22:00";"2025-05-16 23:00";ejecutada;21178138-6;"ana silva";si;"piscina 1";"santa cruz";20000;20000;tarjeta;2025-05-11
+RES-01495;2025-11-14;"2025-11-14 10:00";"2025-11-14 11:00";reservada;11219981-0;"pedro rojas";si;"piscina 2";"la florida";20000;0;;2025-11-11
+RES-01498;2026-04-29;"2026-05-01 02:30";"2026-05-11 02:30";reservada;22852757-2;"ana silva";no;"cabana 20";providencia;1200000;0;;2025-01-04
+RES-01499;2025-10-10;"2025-10-10 15:00";"2025-10-10 16:00";reservada;5149595-0;"maria gonzalez";no;"cancha padel techada";"santiago centro";35000;0;;2025-10-10
+RES-01505;2025-01-12;"2025-01-12 15:00";"2025-01-12 16:00";reservada;14586066-0;"ana silva";si;"cancha tenis techada";"santiago centro";35000;0;;2025-01-10
+RES-01507;2025-07-20;"2025-07-20 12:00";"2025-07-20 13:00";cancelada;21156024-k;"maria gonzalez";si;"salon eventos 4";"santiago centro";100000;0;;2025-07-17
+RES-01512;2025-03-16;"2025-03-16 15:00";"2025-03-16 16:00";reservada;7826282-6;"maria gonzalez";no;"cancha tenis techada";"santiago centro";35000;0;;2025-03-15
+RES-01515;2026-05-10;"2026-05-12 13:00";"2026-05-19 13:00";reservada;16253483-1;"maria gonzalez";si;"cabana 8";"santiago centro";840000;0;;2025-07-03
+RES-01516;2025-11-01;"2025-11-01 09:00";"2025-11-01 10:00";reservada;16953331-8;"pedro rojas";si;"restaurant 1";"la florida";30000;0;;2025-10-31
+RES-01526;2025-01-08;"2025-01-08 16:00";"2025-01-08 17:00";reservada;13015768-8;"pedro rojas";si;"cancha tenis techada";"la florida";35000;0;;2025-01-06
+RES-01527;2025-02-02;"2025-02-02 16:00";"2025-02-02 17:00";reservada;12275678-5;"juan perez";no;"cancha basquetbol aire libre";"santiago centro";25000;0;;2025-02-01
+RES-01528;2025-07-14;"2025-07-14 18:00";"2025-07-14 19:00";ejecutada;7584304-6;"ana silva";no;"piscina 1";"la florida";20000;20000;transferencia;2025-07-12
+RES-01529;2025-04-13;"2025-04-13 18:00";"2025-04-13 19:00";cancelada;17877832-3;"pedro rojas";si;"salon eventos 4";"santa cruz";100000;0;;2025-04-13
+RES-01541;2025-12-04;"2025-12-04 09:00";"2025-12-04 10:00";reservada;10698937-0;"pedro rojas";no;"cancha basquetbol aire libre";providencia;25000;0;;2025-12-03
+RES-01547;2025-10-02;"2025-10-02 08:00";"2025-10-02 09:00";reservada;10698937-0;"pedro rojas";no;"salon eventos 3";"santa cruz";100000;0;;2025-09-28
+RES-01551;2025-08-03;"2025-08-03 13:00";"2025-08-03 14:00";reservada;13792450-1;"juan perez";no;"salon eventos 1";"la florida";100000;0;;2025-07-30
+RES-01554;2025-08-16;"2025-08-16 19:00";"2025-08-16 20:00";reservada;16990297-6;"ana silva";si;"cancha padel techada";"santa cruz";35000;0;;2025-08-14
+RES-01557;2026-06-22;"2026-06-24 07:00";"2026-06-25 07:00";reservada;17503226-6;"juan perez";si;"cabana 18";"la florida";120000;0;;2025-08-14
+RES-01558;2025-02-11;"2025-02-11 11:00";"2025-02-11 12:00";ejecutada;21821683-8;"maria gonzalez";no;"cancha padel techada";"santiago centro";35000;35000;efectivo;2025-02-11
+RES-01559;2025-12-06;"2025-12-06 10:00";"2025-12-06 11:00";ejecutada;14952228-k;"juan perez";si;"cancha tenis techada";"santiago centro";35000;35000;efectivo;2025-12-04
+RES-01564;2026-06-29;"2026-07-01 12:30";"2026-07-05 12:30";reservada;21162735-2;"juan perez";no;"cabana 17";providencia;480000;0;;2025-12-13
+RES-01565;2025-11-11;"2025-11-11 08:00";"2025-11-11 09:00";cancelada;16054257-8;"luis contreras";no;"salon eventos 2";"santiago centro";100000;0;;2025-11-06
+RES-01569;2025-01-11;"2025-01-11 20:00";"2025-01-11 21:00";ejecutada;12651989-3;"luis contreras";no;"cancha padel techada";providencia;35000;35000;efectivo;2025-01-09
+RES-01573;2025-06-13;"2025-06-13 16:00";"2025-06-13 17:00";reservada;5373421-9;"luis contreras";no;"piscina 1";"santa cruz";20000;0;;2025-06-12
+RES-01574;2025-05-11;"2025-05-11 12:00";"2025-05-11 13:00";reservada;13006129-k;"pedro rojas";no;"restaurant 2";"santa cruz";30000;0;;2025-05-09
+RES-01575;2025-06-11;"2025-06-11 21:00";"2025-06-11 22:00";cancelada;6126625-9;"maria gonzalez";no;"cancha padel aire libre";"la florida";25000;0;;2025-06-06
+RES-01576;2025-01-18;"2025-01-18 18:00";"2025-01-18 19:00";ejecutada;20194778-2;"ana silva";no;"cancha padel aire libre";"santa cruz";25000;25000;tarjeta;2025-01-13
+RES-01583;2025-06-12;"2025-06-12 08:00";"2025-06-12 09:00";cancelada;20128868-1;"ana silva";si;"salon eventos 2";"santiago centro";100000;0;;2025-06-10
+RES-01587;2025-03-12;"2025-03-12 22:00";"2025-03-12 23:00";cancelada;10698937-0;"pedro rojas";no;"cancha padel techada";"la florida";35000;0;;2025-03-07
+RES-01588;2025-08-08;"2025-08-08 19:00";"2025-08-08 20:00";cancelada;11627877-4;"pedro rojas";no;"restaurant 2";"la florida";30000;0;;2025-08-08
+RES-01589;2025-06-06;"2025-06-06 14:00";"2025-06-06 15:00";reservada;22108526-4;"ana silva";no;"salon eventos 4";"la florida";100000;0;;2025-06-03
+RES-01590;2025-09-01;"2025-09-01 12:00";"2025-09-01 13:00";ejecutada;16972312-5;"juan perez";no;"piscina 1";"santiago centro";20000;20000;transferencia;2025-08-27
+RES-01592;2025-03-09;"2025-03-09 22:00";"2025-03-09 23:00";ejecutada;8160344-8;"luis contreras";no;"salon eventos 3";"santa cruz";100000;100000;tarjeta;2025-03-04
+RES-01595;2025-06-17;"2025-06-17 18:00";"2025-06-17 19:00";cancelada;18647741-3;"ana silva";no;"cancha futbolito techada";"la florida";35000;0;;2025-06-13
+RES-01596;2025-02-01;"2025-02-01 10:00";"2025-02-01 11:00";cancelada;15505875-7;"pedro rojas";no;"piscina 1";"santiago centro";20000;0;;2025-02-01
+RES-01597;2025-10-16;"2025-10-16 16:00";"2025-10-16 17:00";ejecutada;16336276-7;"pedro rojas";no;"cancha tenis techada";"santa cruz";35000;35000;transferencia;2025-10-11
+RES-01602;2025-09-10;"2025-09-10 08:00";"2025-09-10 09:00";reservada;12578522-0;"ana silva";no;"piscina 1";providencia;20000;0;;2025-09-05
+RES-01609;2025-07-20;"2025-07-20 19:00";"2025-07-20 20:00";reservada;13650113-5;"pedro rojas";no;"salon eventos 1";"la florida";100000;0;;2025-07-20
+RES-01610;2025-06-20;"2025-06-20 20:00";"2025-06-20 21:00";reservada;17654518-6;"luis contreras";si;"cancha basquetbol techada";"santa cruz";35000;0;;2025-06-20
+RES-01613;2025-02-11;"2025-02-11 12:00";"2025-02-11 13:00";ejecutada;10934689-6;"pedro rojas";no;"salon eventos 3";"la florida";100000;100000;tarjeta;2025-02-11
+RES-01614;2026-05-13;"2026-05-15 15:30";"2026-05-15 16:30";reservada;13015768-8;"pedro rojas";si;"restaurant 1";providencia;30000;0;transferencia;2025-11-02
+RES-01618;2025-07-13;"2025-07-13 20:00";"2025-07-13 21:00";ejecutada;16887747-1;luis;si;"cancha padel aire libre";"la florida";25000;25000;transferencia;2025-07-12
+RES-01622;2025-03-19;"2025-03-19 19:00";"2025-03-19 20:00";reservada;5204506-1;"ana silva";no;"piscina 1";providencia;20000;0;;2025-03-16
+RES-01623;2025-06-06;"2025-06-06 11:00";"2025-06-06 12:00";cancelada;13203913-5;"maria gonzalez";si;"restaurant 1";"la florida";30000;0;;2025-06-01
+RES-01624;2026-07-27;"2026-07-29 12:30";"2026-08-08 12:30";reservada;12469531-7;"pedro rojas";si;"cabana 6";providencia;1200000;0;;2025-05-15
+RES-01625;2025-04-14;"2025-04-14 09:00";"2025-04-14 10:00";cancelada;15040048-1;"juan perez";no;"cancha padel aire libre";"santa cruz";25000;0;;2025-04-13
+RES-01628;2025-06-12;"2025-06-12 21:00";"2025-06-12 22:00";reservada;19489863-0;"ana silva";no;"salon eventos 4";"la florida";100000;0;;2025-06-07
+RES-01631;2025-11-14;"2025-11-14 18:00";"2025-11-14 19:00";cancelada;22885927-3;"luis contreras";si;"piscina 2";"la florida";20000;0;;2025-11-12
+RES-01638;2025-03-01;"2025-03-01 09:00";"2025-03-01 10:00";reservada;15878471-8;"maria gonzalez";no;"cancha tenis aire libre";"santa cruz";25000;0;;2025-02-28
+RES-01639;2025-12-12;"2025-12-12 18:00";"2025-12-12 19:00";cancelada;13083215-6;"pedro rojas";no;"cancha futbolito aire libre";"santiago centro";25000;0;;2025-12-09
+RES-01640;2025-10-05;"2025-10-05 19:00";"2025-10-05 20:00";cancelada;22110547-8;"maria gonzalez";si;"cancha padel aire libre";"santiago centro";25000;0;;2025-10-01
+RES-01641;2025-08-19;"2025-08-19 13:00";"2025-08-19 14:00";cancelada;9203394-5;"luis contreras";si;"cancha basquetbol techada";providencia;35000;0;;2025-08-15
+RES-01642;2025-09-09;"2025-09-09 18:00";"2025-09-09 19:00";reservada;12578522-0;"ana silva";no;"salon eventos 4";providencia;100000;0;;2025-09-07
+RES-01644;2025-02-19;"2025-02-19 12:00";"2025-02-19 13:00";reservada;23939824-3;"juan perez";no;"salon eventos 2";"santa cruz";100000;0;;2025-02-17
+RES-01647;2025-09-17;"2025-09-17 16:00";"2025-09-17 17:00";cancelada;24967582-2;maria;si;"cancha padel techada";"santa cruz";35000;0;;2025-09-15
+RES-01648;2025-03-09;"2025-03-09 20:00";"2025-03-09 21:00";ejecutada;10578107-5;"luis contreras";si;"cancha padel techada";"santiago centro";35000;35000;transferencia;2025-03-08
+RES-01650;2025-11-09;"2025-11-09 20:00";"2025-11-09 21:00";cancelada;22075434-0;"ana silva";si;"cancha futbolito techada";providencia;35000;0;;2025-11-04
+RES-01651;2025-07-18;"2025-07-18 15:00";"2025-07-18 16:00";reservada;19652678-1;"juan perez";no;"cancha tenis aire libre";"santiago centro";25000;0;;2025-07-16
+RES-01654;2025-09-11;"2025-09-11 10:00";"2025-09-11 11:00";cancelada;19484029-2;"luis contreras";si;"cancha tenis aire libre";providencia;25000;0;;2025-09-06
+RES-01655;2025-06-18;"2025-06-18 09:00";"2025-06-18 10:00";ejecutada;19484029-2;"luis contreras";si;"cancha basquetbol aire libre";"la florida";25000;25000;transferencia;2025-06-15
+RES-01657;2025-09-17;"2025-09-17 20:00";"2025-09-17 21:00";cancelada;24765561-1;"juan perez";no;"salon eventos 4";providencia;100000;0;;2025-09-13
+RES-01662;2025-09-10;"2025-09-10 10:00";"2025-09-10 11:00";ejecutada;21454860-7;"ana silva";si;"cancha tenis aire libre";"santa cruz";25000;25000;efectivo;2025-09-07
+RES-01664;2025-06-12;"2025-06-12 14:00";"2025-06-12 15:00";reservada;22512308-k;"pedro rojas";si;"cancha tenis techada";"la florida";35000;0;;2025-06-11
+RES-01665;2025-04-14;"2025-04-14 21:00";"2025-04-14 22:00";ejecutada;20408365-7;"maria gonzalez";si;"salon eventos 4";"la florida";100000;100000;tarjeta;2025-04-10
+RES-01666;2025-05-03;"2025-05-03 20:00";"2025-05-03 21:00";reservada;12891005-0;"luis contreras";si;"salon eventos 3";"santa cruz";100000;0;;2025-05-03
+RES-01667;2025-08-16;"2025-08-16 20:00";"2025-08-16 21:00";ejecutada;12730200-6;"maria gonzalez";no;"cancha tenis techada";providencia;35000;35000;tarjeta;2025-08-16
+RES-01669;2025-12-11;"2025-12-11 16:00";"2025-12-11 17:00";cancelada;11984768-0;"luis contreras";si;"restaurant 2";"la florida";30000;0;;2025-12-10
+RES-01672;2025-06-18;"2025-06-18 12:00";"2025-06-18 13:00";cancelada;16170965-4;"luis contreras";si;"cancha basquetbol aire libre";"santiago centro";25000;0;;2025-06-13
+RES-01675;2025-01-19;"2025-01-19 20:00";"2025-01-19 21:00";reservada;18329134-3;"pedro rojas";no;"cancha padel aire libre";"santiago centro";25000;0;;2025-01-14
+RES-01676;2025-01-08;"2025-01-08 15:00";"2025-01-08 16:00";reservada;16276138-2;"ana silva";si;"piscina 1";"la florida";20000;0;;2025-01-05
+RES-01680;2025-11-05;"2025-11-05 17:00";"2025-11-05 18:00";ejecutada;13953163-9;"juan perez";no;"cancha basquetbol techada";providencia;35000;35000;efectivo;2025-11-04
+RES-01683;2025-09-19;"2025-09-19 10:00";"2025-09-19 11:00";cancelada;22381571-5;"juan perez";si;"restaurant 2";"la florida";30000;0;;2025-09-14
+RES-01689;2025-08-16;"2025-08-16 10:00";"2025-08-16 11:00";ejecutada;11247006-9;"luis contreras";no;"cancha tenis aire libre";"la florida";25000;25000;efectivo;2025-08-13
+RES-01698;2025-02-20;"2025-02-20 16:00";"2025-02-20 17:00";cancelada;7206185-3;"luis contreras";no;"cancha basquetbol techada";providencia;35000;0;;2025-02-17
+RES-01699;2025-09-15;"2025-09-15 22:00";"2025-09-15 23:00";reservada;19489863-0;"ana silva";si;"cancha futbolito techada";"la florida";35000;0;;2025-09-14
+RES-01704;2025-01-11;"2025-01-11 08:00";"2025-01-11 09:00";ejecutada;18154120-2;"maria gonzalez";no;"piscina 2";"santiago centro";20000;20000;transferencia;2025-01-08
+RES-01705;2025-10-03;"2025-10-03 09:00";"2025-10-03 10:00";cancelada;7101185-2;"pedro rojas";si;"cancha basquetbol aire libre";providencia;25000;0;;2025-09-29
+RES-01708;2025-10-08;"2025-10-08 14:00";"2025-10-08 15:00";cancelada;18467664-8;"pedro rojas";no;"cancha tenis aire libre";providencia;25000;0;;2025-10-05
+RES-01711;2025-09-05;"2025-09-05 12:00";"2025-09-05 13:00";ejecutada;13006129-k;"pedro rojas";si;"restaurant 1";"la florida";30000;30000;tarjeta;2025-09-01
+RES-01712;2025-01-09;"2025-01-09 20:00";"2025-01-09 21:00";reservada;16012079-7;"ana silva";no;"cancha padel aire libre";providencia;25000;0;;2025-01-06
+RES-01715;2025-10-14;"2025-10-14 21:00";"2025-10-14 22:00";ejecutada;10427547-8;"ana silva";no;"restaurant 1";providencia;30000;30000;transferencia;2025-10-11
+RES-01716;2025-11-05;"2025-11-05 09:00";"2025-11-05 10:00";reservada;20408365-7;"maria gonzalez";no;"piscina 2";"santa cruz";20000;0;;2025-11-05
+RES-01717;2025-09-05;"2025-09-05 12:00";"2025-09-05 13:00";cancelada;18568061-4;"ana silva";no;"cancha futbolito techada";providencia;35000;0;;2025-09-05
+RES-01719;2025-11-03;"2025-11-03 11:00";"2025-11-03 12:00";reservada;17505864-8;"maria gonzalez";si;"restaurant 2";providencia;30000;0;;2025-11-03
+RES-01722;2025-04-20;"2025-04-20 16:00";"2025-04-20 17:00";ejecutada;22078734-6;"pedro rojas";no;"restaurant 2";"santa cruz";30000;30000;efectivo;2025-04-15
+RES-01723;2025-04-10;"2025-04-10 14:00";"2025-04-10 15:00";reservada;11177094-8;"maria gonzalez";no;"cancha tenis techada";providencia;35000;0;;2025-04-06
+RES-01728;2025-06-03;"2025-06-03 10:00";"2025-06-03 11:00";reservada;9039992-6;"ana silva";no;"cancha basquetbol techada";"santiago centro";35000;0;;2025-06-02
+RES-01729;2025-10-04;"2025-10-04 20:00";"2025-10-04 21:00";ejecutada;6626889-6;pedro;no;"restaurant 2";"la florida";30000;30000;transferencia;2025-10-01
+RES-01731;2025-08-09;"2025-08-09 21:00";"2025-08-09 22:00";cancelada;10527082-8;"ana silva";si;"salon eventos 2";"santa cruz";100000;0;;2025-08-06
+RES-01734;2025-05-13;"2025-05-13 16:00";"2025-05-13 17:00";cancelada;14252158-k;"luis contreras";no;"cancha padel techada";providencia;35000;0;;2025-05-11
+RES-01736;2025-02-17;"2025-02-17 11:00";"2025-02-17 12:00";ejecutada;5373421-9;"luis contreras";no;"salon eventos 4";"santa cruz";100000;100000;transferencia;2025-02-16
+RES-01738;2025-08-18;"2025-08-18 10:00";"2025-08-18 11:00";cancelada;13734270-7;"luis contreras";si;"salon eventos 3";"santa cruz";100000;0;;2025-08-13
+RES-01739;2025-05-20;"2025-05-20 13:00";"2025-05-20 14:00";reservada;19937737-k;"luis contreras";no;"salon eventos 3";"santa cruz";100000;0;;2025-05-19
+RES-01740;2025-04-05;"2025-04-05 22:00";"2025-04-05 23:00";cancelada;16972312-5;"juan perez";no;"salon eventos 1";"santiago centro";100000;0;;2025-03-31
+RES-01744;2025-06-18;"2025-06-18 13:00";"2025-06-18 14:00";cancelada;23876696-6;"luis contreras";no;"cancha padel aire libre";"la florida";25000;0;;2025-06-13
+RES-01745;2025-07-11;"2025-07-11 15:00";"2025-07-11 16:00";reservada;13897062-0;"maria gonzalez";no;"piscina 1";"la florida";20000;0;;2025-07-06
+RES-01747;2025-09-15;"2025-09-15 09:00";"2025-09-15 10:00";reservada;14254375-3;pedro;no;"salon eventos 2";"santa cruz";100000;0;;2025-09-15
+RES-01748;2025-10-01;"2025-10-01 11:00";"2025-10-01 12:00";cancelada;14756759-6;"juan perez";no;"salon eventos 1";"santa cruz";100000;0;;2025-10-01
+RES-01750;2025-04-15;"2025-04-15 17:00";"2025-04-15 18:00";reservada;24967582-2;"maria gonzalez";si;"cancha padel aire libre";providencia;25000;0;;2025-04-12
+RES-01751;2025-11-19;"2025-11-19 22:00";"2025-11-19 23:00";reservada;22329198-8;"luis contreras";no;"piscina 1";"santiago centro";20000;0;;2025-11-17
+RES-01752;2025-12-05;"2025-12-05 13:00";"2025-12-05 14:00";cancelada;23369020-1;"ana silva";no;"salon eventos 3";providencia;100000;0;;2025-12-01
+RES-01755;2025-08-15;"2025-08-15 13:00";"2025-08-15 14:00";reservada;24967582-2;"maria gonzalez";si;"restaurant 1";"la florida";30000;0;;2025-08-14
+RES-01757;2025-11-09;"2025-11-09 10:00";"2025-11-09 11:00";cancelada;18616868-2;"luis contreras";si;"cancha padel techada";"la florida";35000;0;;2025-11-07
+RES-01759;2025-08-07;"2025-08-07 11:00";"2025-08-07 12:00";ejecutada;18605052-5;ana;si;"piscina 2";providencia;20000;20000;efectivo;2025-08-02
+RES-01760;2025-03-16;"2025-03-16 17:00";"2025-03-16 18:00";ejecutada;21863652-7;"luis contreras";no;"cancha basquetbol techada";"la florida";35000;35000;tarjeta;2025-03-13
+RES-01762;2025-07-05;"2025-07-05 22:00";"2025-07-05 23:00";reservada;9269949-8;"ana silva";no;"salon eventos 4";"santa cruz";100000;0;;2025-07-01
+RES-01766;2025-08-02;"2025-08-02 20:00";"2025-08-02 21:00";ejecutada;15115625-8;"juan perez";si;"cancha basquetbol aire libre";"santiago centro";25000;25000;transferencia;2025-07-31
+RES-01768;2025-09-10;"2025-09-10 10:00";"2025-09-10 11:00";ejecutada;17213598-6;"pedro rojas";si;"salon eventos 4";"santa cruz";100000;100000;transferencia;2025-09-07
+RES-01770;2025-09-05;"2025-09-05 14:00";"2025-09-05 15:00";cancelada;19576306-2;"luis contreras";no;"cancha tenis techada";"santa cruz";35000;0;;2025-09-03
+RES-01773;2025-07-20;"2025-07-20 19:00";"2025-07-20 20:00";ejecutada;19104958-6;"pedro rojas";si;"cancha padel techada";providencia;35000;35000;efectivo;2025-07-20
+RES-01775;2025-02-14;"2025-02-14 22:00";"2025-02-14 23:00";cancelada;14252158-k;"luis contreras";si;"cancha padel aire libre";"santa cruz";25000;0;;2025-02-14
+RES-01776;2025-05-11;"2025-05-11 22:00";"2025-05-11 23:00";reservada;16657576-1;"luis contreras";no;"cancha basquetbol techada";"santiago centro";35000;0;;2025-05-09
+RES-01778;2025-11-17;"2025-11-17 16:00";"2025-11-17 17:00";cancelada;13203913-5;"maria gonzalez";si;"salon eventos 1";"santa cruz";100000;0;;2025-11-15
+RES-01779;2025-07-18;"2025-07-18 10:00";"2025-07-18 11:00";cancelada;16949045-7;"luis contreras";no;"cancha basquetbol techada";"santiago centro";35000;0;;2025-07-15
+RES-01781;2025-02-15;"2025-02-15 13:00";"2025-02-15 14:00";cancelada;21852963-1;"luis contreras";si;"restaurant 2";"santa cruz";30000;0;;2025-02-11
+RES-01782;2025-07-12;"2025-07-12 16:00";"2025-07-12 17:00";reservada;16759872-2;"ana silva";si;"salon eventos 2";providencia;100000;0;;2025-07-08
+RES-01783;2025-01-08;"2025-01-08 08:00";"2025-01-08 09:00";ejecutada;14379507-1;"juan perez";no;"salon eventos 3";"santa cruz";100000;100000;tarjeta;2025-01-03
+RES-01784;2025-08-16;"2025-08-16 09:00";"2025-08-16 10:00";cancelada;17786278-9;"juan perez";no;"salon eventos 1";"santiago centro";100000;0;;2025-08-13
+RES-01786;2025-04-06;"2025-04-06 21:00";"2025-04-06 22:00";ejecutada;22378728-2;"maria gonzalez";si;"cancha futbolito aire libre";"santa cruz";25000;25000;tarjeta;2025-04-06
+RES-01788;2025-08-14;"2025-08-14 21:00";"2025-08-14 22:00";cancelada;19048151-4;"ana silva";si;"piscina 2";"la florida";20000;0;;2025-08-14
+RES-01790;2025-02-05;"2025-02-05 09:00";"2025-02-05 10:00";ejecutada;7544276-9;"maria gonzalez";no;"salon eventos 2";"la florida";100000;100000;tarjeta;2025-02-05
+RES-01792;2025-05-14;"2025-05-14 17:00";"2025-05-14 18:00";cancelada;13147810-0;"pedro rojas";no;"salon eventos 1";"santiago centro";100000;0;;2025-05-11
+RES-01797;2025-06-08;"2025-06-08 17:00";"2025-06-08 18:00";ejecutada;22156789-7;"luis contreras";si;"cancha basquetbol techada";"santa cruz";35000;35000;transferencia;2025-06-08
+RES-01798;2025-09-18;"2025-09-18 20:00";"2025-09-18 21:00";ejecutada;5149595-0;"maria gonzalez";si;"cancha basquetbol aire libre";"la florida";25000;25000;transferencia;2025-09-14
+RES-01801;2025-06-12;"2025-06-12 08:00";"2025-06-12 09:00";ejecutada;14379495-4;"luis contreras";si;"cancha futbolito aire libre";"santa cruz";25000;25000;efectivo;2025-06-08
+RES-01802;2025-12-09;"2025-12-09 12:00";"2025-12-09 13:00";reservada;24402541-2;"luis contreras";no;"cancha padel techada";"la florida";35000;0;;2025-12-04
+RES-01803;2025-07-19;"2025-07-19 14:00";"2025-07-19 15:00";ejecutada;21525938-2;"ana silva";si;"cancha padel aire libre";"santiago centro";25000;25000;efectivo;2025-07-18
+RES-01805;2025-06-05;"2025-06-05 16:00";"2025-06-05 17:00";reservada;19211618-k;"luis contreras";si;"piscina 2";"la florida";20000;0;;2025-06-05
+RES-01807;2025-06-11;"2025-06-11 13:00";"2025-06-11 14:00";cancelada;12651989-3;"luis contreras";no;"salon eventos 4";providencia;100000;0;;2025-06-10
+RES-01809;2025-01-14;"2025-01-14 19:00";"2025-01-14 20:00";cancelada;24256806-0;"pedro rojas";no;"cancha basquetbol aire libre";"santa cruz";25000;0;;2025-01-13
+RES-01811;2025-04-02;"2025-04-02 18:00";"2025-04-02 19:00";ejecutada;18154120-2;maria;no;"cancha futbolito techada";providencia;35000;35000;efectivo;2025-03-30
+RES-01815;2025-05-13;"2025-05-13 15:00";"2025-05-13 16:00";cancelada;24138079-3;"juan perez";no;"cancha futbolito aire libre";"santa cruz";25000;0;;2025-05-10
+RES-01816;2025-11-10;"2025-11-10 21:00";"2025-11-10 22:00";ejecutada;21554696-9;"maria gonzalez";si;"restaurant 2";"santa cruz";30000;30000;tarjeta;2025-11-07
+RES-01817;2025-04-05;"2025-04-05 15:00";"2025-04-05 16:00";cancelada;10613264-k;"ana silva";si;"piscina 2";"santa cruz";20000;0;;2025-04-01
+RES-01819;2025-05-20;"2025-05-20 14:00";"2025-05-20 15:00";cancelada;23457711-5;"luis contreras";no;"cancha tenis aire libre";"santiago centro";25000;0;;2025-05-17
+RES-01821;2025-08-09;"2025-08-09 15:00";"2025-08-09 16:00";ejecutada;24693299-9;"pedro rojas";no;"cancha futbolito techada";"santiago centro";35000;35000;efectivo;2025-08-04
+RES-01822;2025-09-07;"2025-09-07 14:00";"2025-09-07 15:00";reservada;16107528-0;"juan perez";no;"salon eventos 1";"la florida";100000;0;;2025-09-04
+RES-01827;2025-04-06;"2025-04-06 19:00";"2025-04-06 20:00";ejecutada;23731597-9;"juan perez";si;"restaurant 1";"santiago centro";30000;30000;efectivo;2025-04-04
+RES-01831;2025-05-14;"2025-05-14 19:00";"2025-05-14 20:00";reservada;11086191-5;"ana silva";si;"cancha basquetbol aire libre";providencia;25000;0;;2025-05-10
+RES-01836;2025-08-10;"2025-08-10 17:00";"2025-08-10 18:00";ejecutada;16987649-5;"maria gonzalez";no;"cancha padel aire libre";providencia;25000;25000;efectivo;2025-08-08
+RES-01837;2025-06-19;"2025-06-19 09:00";"2025-06-19 10:00";cancelada;15804334-3;"luis contreras";si;"cancha padel techada";"santiago centro";35000;0;;2025-06-17
+RES-01838;2025-07-17;"2025-07-17 18:00";"2025-07-17 19:00";reservada;15562742-5;"maria gonzalez";si;"salon eventos 4";providencia;100000;0;;2025-07-17
+RES-01839;2025-02-07;"2025-02-07 13:00";"2025-02-07 14:00";reservada;22885927-3;"luis contreras";si;"restaurant 2";"la florida";30000;0;;2025-02-06
+RES-01840;2025-10-06;"2025-10-06 12:00";"2025-10-06 13:00";reservada;8459998-0;"maria gonzalez";si;"cancha tenis aire libre";"santa cruz";25000;0;;2025-10-04
+RES-01841;2025-04-07;"2025-04-07 09:00";"2025-04-07 10:00";cancelada;23457711-5;"luis contreras";si;"restaurant 2";"santiago centro";30000;0;;2025-04-03
+RES-01842;2025-09-06;"2025-09-06 13:00";"2025-09-06 14:00";cancelada;15530992-k;"luis contreras";si;"cancha tenis techada";"santiago centro";35000;0;;2025-09-02
+RES-01846;2025-09-05;"2025-09-05 12:00";"2025-09-05 13:00";ejecutada;12080481-2;"maria gonzalez";si;"cancha padel aire libre";providencia;25000;25000;transferencia;2025-09-04
+RES-01847;2025-02-16;"2025-02-16 19:00";"2025-02-16 20:00";ejecutada;22329198-8;"luis contreras";no;"cancha futbolito techada";"la florida";35000;35000;efectivo;2025-02-13
+RES-01848;2025-06-18;"2025-06-18 09:00";"2025-06-18 10:00";ejecutada;18565989-5;"luis contreras";si;"cancha padel aire libre";providencia;25000;25000;efectivo;2025-06-13
+RES-01850;2025-02-13;"2025-02-13 11:00";"2025-02-13 12:00";ejecutada;15505875-9;"pedro rojas";si;"cancha tenis aire libre";"la florida";25000;25000;transferencia;2025-02-10
+RES-01851;2025-11-18;"2025-11-18 11:00";"2025-11-18 12:00";ejecutada;9392933-0;"pedro rojas";si;"salon eventos 4";"la florida";100000;100000;transferencia;2025-11-16
+RES-01852;2025-09-20;"2025-09-20 12:00";"2025-09-20 13:00";cancelada;13554594-5;"pedro rojas";no;"restaurant 2";providencia;30000;0;;2025-09-17
+RES-01853;2025-09-04;"2025-09-04 17:00";"2025-09-04 18:00";cancelada;10613264-k;"ana silva";si;"cancha futbolito aire libre";"santiago centro";25000;0;;2025-09-03
+RES-01862;2025-01-14;"2025-01-14 13:00";"2025-01-14 14:00";cancelada;15585247-k;"pedro rojas";no;"cancha padel aire libre";"la florida";25000;0;;2025-01-09
+RES-01863;2025-07-03;"2025-07-03 15:00";"2025-07-03 16:00";ejecutada;17133976-6;"juan perez";no;"restaurant 2";"santa cruz";30000;30000;tarjeta;2025-07-02
+RES-01872;2025-09-12;"2025-09-12 17:00";"2025-09-12 18:00";cancelada;12080481-2;"maria gonzalez";si;"cancha padel techada";"santa cruz";35000;0;;2025-09-08
+RES-01874;2025-12-19;"2025-12-19 11:00";"2025-12-19 12:00";ejecutada;6491083-3;"pedro rojas";si;"cancha padel aire libre";"santa cruz";25000;25000;tarjeta;2025-12-16
+RES-01875;2025-11-06;"2025-11-06 22:00";"2025-11-06 23:00";reservada;7607462-3;"pedro rojas";no;"cancha tenis techada";"la florida";35000;0;;2025-11-04
+RES-01876;2025-07-13;"2025-07-13 18:00";"2025-07-13 19:00";reservada;19895777-1;"juan perez";si;"cancha tenis aire libre";providencia;25000;0;;2025-07-13
+RES-01882;2025-07-13;"2025-07-13 18:00";"2025-07-13 19:00";cancelada;16214968-7;"luis contreras";si;"cancha tenis aire libre";"la florida";25000;0;;2025-07-08
+RES-01883;2025-08-08;"2025-08-08 11:00";"2025-08-08 12:00";cancelada;11862631-1;"ana silva";si;"cancha tenis techada";providencia;35000;0;;2025-08-03
+RES-01886;2025-01-20;"2025-01-20 15:00";"2025-01-20 16:00";ejecutada;9087517-5;"pedro rojas";si;"salon eventos 2";"santiago centro";100000;100000;transferencia;2025-01-15
+RES-01888;2026-07-18;"2026-07-20 02:30";"2026-07-20 03:30";reservada;22703981-4;"juan perez";si;"piscina 1";"santa cruz";20000;0;;2025-11-03
+RES-01889;2025-08-12;"2025-08-12 18:00";"2025-08-12 19:00";cancelada;19895777-1;"juan perez";si;"cancha padel aire libre";"la florida";25000;0;;2025-08-08
+RES-01890;2025-08-10;"2025-08-10 19:00";"2025-08-10 20:00";reservada;13288053-0;luis;si;"cancha tenis techada";"la florida";35000;0;;2025-08-08
+RES-01891;2025-02-03;"2025-02-03 13:00";"2025-02-03 14:00";cancelada;7812836-4;"pedro rojas";si;"cancha futbolito techada";"santiago centro";35000;0;;2025-02-03
+RES-01893;2025-02-11;"2025-02-11 13:00";"2025-02-11 14:00";ejecutada;15505875-7;"pedro rojas";no;"salon eventos 3";"la florida";100000;100000;transferencia;2025-02-06
+RES-01894;2025-04-08;"2025-04-08 16:00";"2025-04-08 17:00";ejecutada;15040048-1;"juan perez";no;"cancha padel techada";"santa cruz";35000;35000;transferencia;2025-04-05
+RES-01895;2025-03-12;"2025-03-12 20:00";"2025-03-12 21:00";cancelada;14254375-3;"pedro rojas";no;"restaurant 1";providencia;30000;0;;2025-03-10
+RES-01897;2025-09-13;"2025-09-13 18:00";"2025-09-13 19:00";ejecutada;15694640-0;"maria gonzalez";si;"salon eventos 1";providencia;100000;100000;tarjeta;2025-09-10
+RES-01898;2025-04-16;"2025-04-16 10:00";"2025-04-16 11:00";ejecutada;24002475-6;"luis contreras";si;"cancha futbolito aire libre";"santiago centro";25000;25000;efectivo;2025-04-13
+RES-01899;2025-02-16;"2025-02-16 16:00";"2025-02-16 17:00";cancelada;12080481-2;"maria gonzalez";si;"piscina 2";"la florida";20000;0;;2025-02-14
+RES-01900;2025-07-06;"2025-07-06 22:00";"2025-07-06 23:00";cancelada;24765561-1;"juan perez";no;"salon eventos 4";providencia;100000;0;;2025-07-05
+RES-01902;2025-04-05;"2025-04-05 15:00";"2025-04-05 16:00";ejecutada;5149595-0;"maria gonzalez";no;"cancha basquetbol techada";"la florida";35000;35000;transferencia;2025-04-04
+RES-01903;2025-04-13;"2025-04-13 09:00";"2025-04-13 10:00";reservada;18728677-8;"juan perez";si;"piscina 2";"santiago centro";20000;0;;2025-04-12
+RES-01904;2025-08-06;"2025-08-06 09:00";"2025-08-06 10:00";reservada;6946141-7;"ana silva";si;"salon eventos 1";"santa cruz";100000;0;;2025-08-06
+RES-01906;2025-11-13;"2025-11-13 16:00";"2025-11-13 17:00";cancelada;6353165-0;"ana silva";no;"cancha basquetbol aire libre";providencia;25000;0;;2025-11-08
+RES-01913;2025-10-12;"2025-10-12 13:00";"2025-10-12 14:00";ejecutada;16094679-2;"ana silva";no;"salon eventos 1";providencia;100000;100000;efectivo;2025-10-09
+RES-01916;2025-02-03;"2025-02-03 22:00";"2025-02-03 23:00";reservada;15293763-6;"luis contreras";si;"cancha tenis techada";"la florida";35000;0;;2025-02-02
+RES-01918;2025-04-01;"2025-04-01 20:00";"2025-04-01 21:00";cancelada;10837704-6;"pedro rojas";si;"salon eventos 1";providencia;100000;0;;2025-03-28
+RES-01919;2025-03-06;"2025-03-06 14:00";"2025-03-06 15:00";ejecutada;12192627-k;"pedro rojas";si;"cancha padel techada";"la florida";35000;35000;efectivo;2025-03-02
+RES-01921;2025-10-12;"2025-10-12 15:00";"2025-10-12 16:00";ejecutada;15345989-4;"pedro rojas";no;"cancha padel techada";"santiago centro";35000;35000;tarjeta;2025-10-08
+RES-01926;2025-06-10;"2025-06-10 08:00";"2025-06-10 09:00";ejecutada;17502418-2;luis;no;"salon eventos 2";"santa cruz";100000;100000;tarjeta;2025-06-05
+RES-01927;2025-11-08;"2025-11-08 22:00";"2025-11-08 23:00";cancelada;12892449-3;pedro;no;"restaurant 2";providencia;30000;0;;2025-11-04
+RES-01928;2025-11-14;"2025-11-14 19:00";"2025-11-14 20:00";reservada;20086756-4;"maria gonzalez";no;"salon eventos 1";"santiago centro";100000;0;;2025-11-10
+RES-01929;2025-09-14;"2025-09-14 19:00";"2025-09-14 20:00";ejecutada;13014055-6;"maria gonzalez";si;"cancha padel techada";"santiago centro";35000;35000;transferencia;2025-09-11
+RES-01930;2025-10-12;"2025-10-12 11:00";"2025-10-12 12:00";ejecutada;17931290-5;"juan perez";no;"cancha tenis techada";"santiago centro";35000;35000;tarjeta;2025-10-12
+RES-01939;2025-12-18;"2025-12-18 13:00";"2025-12-18 14:00";cancelada;7130867-7;"luis contreras";si;"cancha padel aire libre";"santiago centro";25000;0;;2025-12-16
+RES-01943;2025-09-12;"2025-09-12 19:00";"2025-09-12 20:00";reservada;5983819-9;"ana silva";no;"cancha tenis techada";providencia;35000;0;;2025-09-12
+RES-01946;2025-02-14;"2025-02-14 13:00";"2025-02-14 14:00";cancelada;11277963-9;"juan perez";no;"piscina 2";"santiago centro";20000;0;;2025-02-13
+RES-01954;2025-10-01;"2025-10-01 18:00";"2025-10-01 19:00";cancelada;10981983-5;"pedro rojas";si;"cancha tenis aire libre";providencia;25000;0;;2025-09-30
+RES-01955;2025-11-09;"2025-11-09 14:00";"2025-11-09 15:00";ejecutada;21773123-2;"luis contreras";no;"cancha basquetbol techada";"santiago centro";35000;35000;efectivo;2025-11-09
+RES-01956;2025-07-03;"2025-07-03 22:00";"2025-07-03 23:00";cancelada;7584304-6;"ana silva";si;"piscina 1";"santa cruz";20000;0;;2025-07-03
+RES-01958;2025-03-17;"2025-03-17 15:00";"2025-03-17 16:00";reservada;21287925-8;"ana silva";no;"cancha futbolito aire libre";"santa cruz";25000;0;;2025-03-16
+RES-01961;2025-07-16;"2025-07-16 18:00";"2025-07-16 19:00";ejecutada;18065705-3;"maria gonzalez";no;"salon eventos 3";"la florida";100000;100000;efectivo;2025-07-14
+RES-01962;2025-02-03;"2025-02-03 15:00";"2025-02-03 16:00";cancelada;24471464-0;"luis contreras";si;"cancha padel aire libre";"la florida";25000;0;;2025-02-02
+RES-01963;2025-05-14;"2025-05-14 20:00";"2025-05-14 21:00";ejecutada;8482497-6;"ana silva";si;"salon eventos 3";"la florida";100000;100000;transferencia;2025-05-11
+RES-01964;2025-01-11;"2025-01-11 15:00";"2025-01-11 16:00";cancelada;10645717-4;"pedro rojas";no;"cancha tenis techada";"la florida";35000;0;;2025-01-11
+RES-01968;2025-02-01;"2025-02-01 12:00";"2025-02-01 13:00";reservada;7812836-4;"pedro rojas";si;"salon eventos 2";providencia;100000;0;;2025-01-29
+RES-01972;2025-05-08;"2025-05-08 19:00";"2025-05-08 20:00";cancelada;13554594-5;"pedro rojas";no;"cancha padel techada";"la florida";35000;0;;2025-05-06
+RES-01973;2025-05-14;"2025-05-14 19:00";"2025-05-14 20:00";ejecutada;7781298-9;"pedro rojas";no;"piscina 1";"santa cruz";20000;20000;tarjeta;2025-05-13
+RES-01975;2025-08-09;"2025-08-09 10:00";"2025-08-09 11:00";cancelada;12887828-9;"maria gonzalez";si;"cancha padel aire libre";providencia;25000;0;;2025-08-08
+RES-01977;2025-09-18;"2025-09-18 21:00";"2025-09-18 22:00";ejecutada;10934689-6;"pedro rojas";si;"piscina 2";"santiago centro";20000;20000;efectivo;2025-09-18
+RES-01980;2025-06-11;"2025-06-11 16:00";"2025-06-11 17:00";cancelada;8954537-4;"luis contreras";si;"cancha padel aire libre";providencia;25000;0;;2025-06-11
+RES-01981;2025-06-02;"2025-06-02 20:00";"2025-06-02 21:00";ejecutada;10905503-4;"pedro rojas";si;"piscina 2";"la florida";20000;20000;efectivo;2025-05-30
+RES-01988;2025-01-10;"2025-01-10 09:00";"2025-01-10 10:00";reservada;7660832-6;"pedro rojas";no;"piscina 1";"santa cruz";20000;0;;2025-01-07
+RES-01990;2025-01-01;"2025-01-01 14:00";"2025-01-01 15:00";cancelada;10934689-6;"pedro rojas";no;"salon eventos 1";"santiago centro";100000;0;;2024-12-27
+RES-01991;2025-09-17;"2025-09-17 19:00";"2025-09-17 20:00";reservada;15293763-6;"luis contreras";no;"cancha basquetbol aire libre";"la florida";25000;0;;2025-09-16
+RES-01993;2025-02-05;"2025-02-05 08:00";"2025-02-05 09:00";cancelada;18965892-3;"juan perez";no;"cancha futbolito aire libre";providencia;25000;0;;2025-02-02
+RES-01994;2025-10-04;"2025-10-04 17:00";"2025-10-04 18:00";reservada;18426969-4;"pedro rojas";si;"salon eventos 1";"la florida";100000;0;;2025-09-30

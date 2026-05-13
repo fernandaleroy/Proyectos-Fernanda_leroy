@@ -1,0 +1,346 @@
+"﻿Código Comuna";"Nombre Comuna";"Código Región";"Nombre Región"
+1101;iquique;1;tarapaca
+1107;"alto hospicio";1;tarapaca
+1401;"pozo almonte";1;tarapaca
+1402;camina;1;tarapaca
+1403;colchane;1;tarapaca
+1404;huara;1;tarapaca
+1405;pica;1;tarapaca
+2101;antofagasta;2;antofagasta
+2102;mejillones;2;antofagasta
+2103;"sierra gorda";2;antofagasta
+2104;taltal;2;antofagasta
+2201;calama;2;antofagasta
+2202;ollague;2;antofagasta
+2203;"san pedro de atacama";2;antofagasta
+2301;tocopilla;2;antofagasta
+2302;"maria elena";2;antofagasta
+3101;copiapo;3;atacama
+3102;caldera;3;atacama
+3103;"tierra amarilla";3;atacama
+3201;chanaral;3;atacama
+3202;"diego de almagro";3;atacama
+3301;vallenar;3;atacama
+3302;"alto del carmen";3;atacama
+3303;freirina;3;atacama
+3304;huasco;3;atacama
+4101;"la serena";4;coquimbo
+4102;coquimbo;4;coquimbo
+4103;andacollo;4;coquimbo
+4104;"la higuera";4;coquimbo
+4105;paihuano;4;coquimbo
+4106;vicuna;4;coquimbo
+4201;illapel;4;coquimbo
+4202;canela;4;coquimbo
+4203;"los vilos";4;coquimbo
+4204;salamanca;4;coquimbo
+4301;ovalle;4;coquimbo
+4302;combarbala;4;coquimbo
+4303;"monte patria";4;coquimbo
+4304;punitaqui;4;coquimbo
+4305;"rio hurtado";4;coquimbo
+5101;valparaiso;5;valparaiso
+5102;casablanca;5;valparaiso
+5103;concon;5;valparaiso
+5104;"juan fernandez";5;valparaiso
+5105;puchuncavi;5;valparaiso
+5107;quintero;5;valparaiso
+5109;"vina del mar";5;valparaiso
+5201;"isla de pascua";5;valparaiso
+5301;"los andes";5;valparaiso
+5302;"calle larga";5;valparaiso
+5303;rinconada;5;valparaiso
+5304;"san esteban";5;valparaiso
+5401;"la ligua";5;valparaiso
+5402;cabildo;5;valparaiso
+5403;papudo;5;valparaiso
+5404;petorca;5;valparaiso
+5405;zapallar;5;valparaiso
+5501;quillota;5;valparaiso
+5502;calera;5;valparaiso
+5503;hijuelas;5;valparaiso
+5504;"la cruz";5;valparaiso
+5506;nogales;5;valparaiso
+5601;"san antonio";5;valparaiso
+5602;algarrobo;5;valparaiso
+5603;cartagena;5;valparaiso
+5604;"el quisco";5;valparaiso
+5605;"el tabo";5;valparaiso
+5606;"santo domingo";5;valparaiso
+5701;"san felipe";5;valparaiso
+5702;catemu;5;valparaiso
+5703;"llay llay";5;valparaiso
+5704;panquehue;5;valparaiso
+5705;putaendo;5;valparaiso
+5706;"santa maria";5;valparaiso
+5801;quilpue;5;valparaiso
+5802;limache;5;valparaiso
+5803;olmue;5;valparaiso
+5804;"villa alemana";5;valparaiso
+6101;rancagua;6;o'higgins
+6102;codegua;6;o'higgins
+6103;coinco;6;o'higgins
+6104;coltauco;6;o'higgins
+6105;donihue;6;o'higgins
+6106;graneros;6;o'higgins
+6107;"las cabras";6;o'higgins
+6108;machali;6;o'higgins
+6109;malloa;6;o'higgins
+6110;mostazal;6;o'higgins
+6111;olivar;6;o'higgins
+6112;peumo;6;o'higgins
+6113;pichidegua;6;o'higgins
+6114;"quinta de tilcoco";6;o'higgins
+6115;rengo;6;o'higgins
+6116;requinoa;6;o'higgins
+6117;"san vicente";6;o'higgins
+6201;pichilemu;6;o'higgins
+6202;"la estrella";6;o'higgins
+6203;litueche;6;o'higgins
+6204;marchihue;6;o'higgins
+6205;navidad;6;o'higgins
+6206;paredones;6;o'higgins
+6301;"san fernando";6;o'higgins
+6302;chepica;6;o'higgins
+6303;chimbarongo;6;o'higgins
+6304;lolol;6;o'higgins
+6305;nancagua;6;o'higgins
+6306;palmilla;6;o'higgins
+6307;peralillo;6;o'higgins
+6308;placilla;6;o'higgins
+6309;pumanque;6;o'higgins
+6310;"santa cruz";6;o'higgins
+7101;talca;7;maule
+7102;constitucion;7;maule
+7103;curepto;7;maule
+7104;empedrado;7;maule
+7105;maule;7;maule
+7106;pelarco;7;maule
+7107;pencahue;7;maule
+7108;"rio claro";7;maule
+7109;"san clemente";7;maule
+7110;"san rafael";7;maule
+7201;cauquenes;7;maule
+7202;chanco;7;maule
+7203;pelluhue;7;maule
+7301;curico;7;maule
+7302;hualane;7;maule
+7303;licanten;7;maule
+7304;molina;7;maule
+7305;rauco;7;maule
+7306;romeral;7;maule
+7307;"sagrada familia";7;maule
+7308;teno;7;maule
+7309;vichuquen;7;maule
+7401;linares;7;maule
+7402;colbun;7;maule
+7403;longavi;7;maule
+7404;parral;7;maule
+7405;retiro;7;maule
+7406;"san javier";7;maule
+7407;"villa alegre";7;maule
+7408;"yerbas buenas";7;maule
+8101;concepcion;8;biobio
+8102;coronel;8;biobio
+8103;chiguayante;8;biobio
+8104;florida;8;biobio
+8105;hualqui;8;biobio
+8106;lota;8;biobio
+8107;penco;8;biobio
+8108;"san pedro de la paz";8;biobio
+8109;"santa juana";8;biobio
+8110;talcahuano;8;biobio
+8111;tome;8;biobio
+8112;hualpen;8;biobio
+8201;lebu;8;biobio
+8202;arauco;8;biobio
+8203;canete;8;biobio
+8204;contulmo;8;biobio
+8205;curanilahue;8;biobio
+8206;"los alamos";8;biobio
+8207;tirua;8;biobio
+8301;"los angeles";8;biobio
+8302;antuco;8;biobio
+8303;cabrero;8;biobio
+8304;laja;8;biobio
+8305;mulchen;8;biobio
+8306;nacimiento;8;biobio
+8307;negrete;8;biobio
+8308;quilaco;8;biobio
+8309;quilleco;8;biobio
+8310;"san rosendo";8;biobio
+8311;"santa barbara";8;biobio
+8312;tucapel;8;biobio
+8313;yumbel;8;biobio
+8314;"alto biobio";8;biobio
+8401;chillan;8;biobio
+8402;bulnes;8;biobio
+8403;cobquecura;8;biobio
+8404;coelemu;8;biobio
+8405;coihueco;8;biobio
+8406;"chillan viejo";8;biobio
+8407;"el carmen";8;biobio
+8408;ninhue;8;biobio
+8409;niquen;8;biobio
+8410;pemuco;8;biobio
+8411;pinto;8;biobio
+8412;portezuelo;8;biobio
+8413;quillon;8;biobio
+8414;quirihue;8;biobio
+8415;ranquil;8;biobio
+8416;"san carlos";8;biobio
+8417;"san fabian";8;biobio
+8418;"san ignacio";8;biobio
+8419;"san nicolas";8;biobio
+8420;trehuaco;8;biobio
+8421;yungay;8;biobio
+9101;temuco;9;"la araucania"
+9102;carahue;9;"la araucania"
+9103;cunco;9;"la araucania"
+9104;curarrehue;9;"la araucania"
+9105;freire;9;"la araucania"
+9106;galvarino;9;"la araucania"
+9107;gorbea;9;"la araucania"
+9108;lautaro;9;"la araucania"
+9109;loncoche;9;"la araucania"
+9110;melipeuco;9;"la araucania"
+9111;"nueva imperial";9;"la araucania"
+9112;"padre las casas";9;"la araucania"
+9113;perquenco;9;"la araucania"
+9114;pitrufquen;9;"la araucania"
+9115;pucon;9;"la araucania"
+9116;"puerto saavedra";9;"la araucania"
+9117;"teodoro schmidt";9;"la araucania"
+9118;tolten;9;"la araucania"
+9119;vilcun;9;"la araucania"
+9120;villarrica;9;"la araucania"
+9121;cholchol;9;"la araucania"
+9201;angol;9;"la araucania"
+9202;collipulli;9;"la araucania"
+9203;curacautin;9;"la araucania"
+9204;ercilla;9;"la araucania"
+9205;lonquimay;9;"la araucania"
+9206;"los sauces";9;"la araucania"
+9207;lumaco;9;"la araucania"
+9208;puren;9;"la araucania"
+9209;renaico;9;"la araucania"
+9210;traiguen;9;"la araucania"
+9211;victoria;9;"la araucania"
+10101;"puerto montt";10;"los lagos"
+10102;calbuco;10;"los lagos"
+10103;cochamo;10;"los lagos"
+10104;fresia;10;"los lagos"
+10105;frutillar;10;"los lagos"
+10106;"los muermos";10;"los lagos"
+10107;llanquihue;10;"los lagos"
+10108;maullin;10;"los lagos"
+10109;"puerto varas";10;"los lagos"
+10201;castro;10;"los lagos"
+10202;ancud;10;"los lagos"
+10203;chonchi;10;"los lagos"
+10204;"curaco de velez";10;"los lagos"
+10205;dalcahue;10;"los lagos"
+10206;puqueldon;10;"los lagos"
+10207;queilen;10;"los lagos"
+10208;quellon;10;"los lagos"
+10209;quemchi;10;"los lagos"
+10210;quinchao;10;"los lagos"
+10301;osorno;10;"los lagos"
+10302;"puerto octay";10;"los lagos"
+10303;purranque;10;"los lagos"
+10304;puyehue;10;"los lagos"
+10305;"rio negro";10;"los lagos"
+10306;"san juan de la costa";10;"los lagos"
+10307;"san pablo";10;"los lagos"
+10401;chaiten;10;"los lagos"
+10402;futaleufu;10;"los lagos"
+10403;hualaihue;10;"los lagos"
+10404;palena;10;"los lagos"
+11101;coihaique;11;aysen
+11102;"lago verde";11;aysen
+11201;aisen;11;aysen
+11202;"puerto cisnes";11;aysen
+11203;guaitecas;11;aysen
+11301;cochrane;11;aysen
+11302;ohiggins;11;aysen
+11303;tortel;11;aysen
+11401;"chile chico";11;aysen
+11402;"rio ibanez";11;aysen
+12101;"punta arenas";12;magallanes
+12102;"laguna blanca";12;magallanes
+12103;"rio verde";12;magallanes
+12104;"san gregorio";12;magallanes
+12201;"cabo de hornos";12;magallanes
+12301;porvenir;12;magallanes
+12302;primavera;12;magallanes
+12303;timaukel;12;magallanes
+12401;"puerto natales";12;magallanes
+12402;"torres del paine";12;magallanes
+13101;santiago;13;metropolitana
+13102;cerrillos;13;metropolitana
+13103;"cerro navia";13;metropolitana
+13104;conchali;13;metropolitana
+13105;"el bosque";13;metropolitana
+13106;"estacion central";13;metropolitana
+13107;huechuraba;13;metropolitana
+13108;independencia;13;metropolitana
+13109;"la cisterna";13;metropolitana
+13110;"la florida";13;metropolitana
+13111;"la granja";13;metropolitana
+13112;"la pintana";13;metropolitana
+13113;"la reina";13;metropolitana
+13114;"las condes";13;metropolitana
+13115;"lo barnechea";13;metropolitana
+13116;"lo espejo";13;metropolitana
+13117;"lo prado";13;metropolitana
+13118;macul;13;metropolitana
+13119;maipu;13;metropolitana
+13120;nunoa;13;metropolitana
+13121;"pedro aguirre cerda";13;metropolitana
+13122;penalolen;13;metropolitana
+13123;providencia;13;metropolitana
+13124;pudahuel;13;metropolitana
+13125;quilicura;13;metropolitana
+13126;"quinta normal";13;metropolitana
+13127;recoleta;13;metropolitana
+13128;renca;13;metropolitana
+13129;"san joaquin";13;metropolitana
+13130;"san miguel";13;metropolitana
+13131;"san ramon";13;metropolitana
+13132;vitacura;13;metropolitana
+13201;"puente alto";13;metropolitana
+13202;pirque;13;metropolitana
+13203;"san jose de maipo";13;metropolitana
+13301;colina;13;metropolitana
+13302;lampa;13;metropolitana
+13303;"til til";13;metropolitana
+13401;"san bernardo";13;metropolitana
+13402;buin;13;metropolitana
+13403;"calera de tango";13;metropolitana
+13404;paine;13;metropolitana
+13501;melipilla;13;metropolitana
+13502;alhue;13;metropolitana
+13503;curacavi;13;metropolitana
+13504;"maria pinto";13;metropolitana
+13505;"san pedro";13;metropolitana
+13601;talagante;13;metropolitana
+13602;"el monte";13;metropolitana
+13603;"isla de maipo";13;metropolitana
+13604;"padre hurtado";13;metropolitana
+13605;penaflor;13;metropolitana
+14101;valdivia;14;"los rios"
+14102;corral;14;"los rios"
+14103;lanco;14;"los rios"
+14104;"los lagos";14;"los rios"
+14105;mafil;14;"los rios"
+14106;mariquina;14;"los rios"
+14107;paillaco;14;"los rios"
+14108;panguipulli;14;"los rios"
+14201;"la union";14;"los rios"
+14202;futrono;14;"los rios"
+14203;"lago ranco";14;"los rios"
+14204;"rio bueno";14;"los rios"
+15101;arica;15;"arica y parinacota"
+15102;camarones;15;"arica y parinacota"
+15201;putre;15;"arica y parinacota"
+15202;"general lagos";15;"arica y parinacota"

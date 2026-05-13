@@ -1,0 +1,29 @@
+﻿run_persona;sucursal_nombre;nombre_cargo;fecha_inicio_cargo;fecha_termino_cargo
+14443188-2;"santiago centro";gerente;2025-01-01;
+20227807-8;"santiago centro";administrativo;2025-01-01;2025-05-20
+14177217-1;"santiago centro";"auxiliar de aseo";2025-01-01;2025-08-30
+23572340-7;"santiago centro";salvavidas;2025-11-01;
+15239062-9;"santiago centro";salvavidas;2026-01-01;
+15537181-1;"santiago centro";"guardia de seguridad";2025-03-01;
+8752286-0;"santiago centro";"guardia de seguridad";2025-04-15;2026-01-10
+24856952-3;providencia;administrativo;2025-01-01;2025-06-30
+23333409-k;providencia;gerente;2025-07-01;
+6149034-5;providencia;contador;2025-10-01;
+23438768-9;providencia;"profesor de tenis";2025-03-01;2025-06-01
+19344657-1;providencia;secretaria;2025-05-15;
+5619901-5;providencia;"auxiliar de aseo";2025-01-15;
+21668644-7;providencia;"auxiliar de aseo";2025-02-01;2025-12-01
+22670227-5;"la florida";gerente;2025-01-01;
+7568205-0;"la florida";"tecnico en enfermeria";2025-01-01;
+22282708-6;"la florida";"auxiliar de aseo";2025-01-01;
+11361267-3;"la florida";"personal de mantencion";2025-02-01;
+23771678-0;"la florida";"personal de mantencion";2025-05-10;2025-11-30
+24183297-k;"la florida";"guardia de seguridad";2025-01-01;
+10532988-0;"la florida";"guardia de seguridad";2025-06-01;
+14295834-7;"santa cruz";gerente;2025-01-01;2025-12-31
+11383074-5;"santa cruz";gerente;2026-01-01;
+17311895-4;"santa cruz";"personal de mantencion";2025-06-15;2025-12-15
+8199061-5;"santa cruz";"profesor de tenis";2025-07-01;
+7552228-1;"santa cruz";"personal de mantencion";2025-01-01;
+14188600-3;"santa cruz";secretaria;2025-01-01;
+16034924-7;"santa cruz";secretaria;2025-03-01;2025-09-15
